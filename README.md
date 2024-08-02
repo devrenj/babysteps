@@ -1,8 +1,4 @@
-<style>
-  body {background: #000000}
-</style>
-
-# 👼 Babysteps - Comece por aqui ✨
+  # 👼 Babysteps - Comece por aqui ✨
  
  Sem pressão
  
