@@ -91,7 +91,7 @@ Editor de códigos popular e leve, nele você pode escrever códigos e aplicar e
   - Crie um arquivo
   - Escreva seus comandos e execute através do botão Play `▶`
 
-## 🔹 Extensão: <a name="goto-live-server">Live Server</a>
+## 🔹 Extensão: [Live Server](goto-live-server)
 ### Cria um servidor local que atualiza o conteúdo conforme você altera no editor, em tempo real
 
 - Instalação:
