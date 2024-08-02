@@ -86,6 +86,7 @@ Editor de códigos popular e leve, nele você pode escrever códigos e aplicar e
 >Recomendo fortemente que mantenha o idioma padrão e comece a treinar seu inglês, para programar não precisamos saber outro idioma, mas na hora de ler alguma documentação, sites ou fóruns em sites estrangeiros, vai ser muito útil! Além disso, existem situações em que saber outro idioma pode ser um divisor de águas.
 
 > [!TIP] 
+>
 > Desbloqueie seu pontencial no VS Code: https://github.com/bylearn/VS-Code-Produtividade-Infinita
 
 ### 🔹 Extensão: Code Runner
@@ -126,6 +127,7 @@ Cria um servidor local que atualiza o conteúdo conforme você altera o arquivo 
   - A primeira página que o Live Server procura é a `index.html`
 
 > [!TIP]
+>
 > Se desejar usar outra página como principal no servidor, clique no arquivo com o botão direito e selecione `Open with Live Server`
 <br><br>
 
@@ -218,9 +220,9 @@ Javascript ou ECMAScript, foi criado por Brendan Eich em 1995. É uma linguagem 
 
 - Hello World!
   - Abra o [VS Code](#-vs-code)
-  - Crie um arquivo com a extensão `.js` (e.g.: `script.js`)
+  - Crie um arquivo com a extensão `.js` (e.g. `script.js`)
   - Digite `console.log('Hello World!');`
-  - Para executar no terminal [NODE](#21-node) digite node + o nome do arquivo no terminal (e.g.: `node script.js`)
+  - Para executar no terminal [NODE](#21-node) digite node + o nome do arquivo no terminal (e.g. `node script.js`)
   - Para executar com o [Code Runner](#-extensão-code-runner): Aperte o Play `▶` na barra de ferramentas do editor
   - Resultado:
 
@@ -282,7 +284,7 @@ Formalmente, as especificações foram definidas somente na década de 1990. Em 
 
 - Primeiro arquivo HTML
   - Abra o [VS Code](#-vs-code)
-  - Crie um arquivo com a extensão `.html` (e.g.: `index.html`)
+  - Crie um arquivo com a extensão `.html` (e.g. `index.html`)
   - Digite `!` para ativar o [Emmet Abbreviation](#goto-emmet)
   - Selecione a opção que contém as tags: `DOCTYPE, HTML, HEAD, BODY`
 
