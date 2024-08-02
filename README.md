@@ -1,5 +1,9 @@
-# 👼 Babysteps
- Comece por aqui ✨
+<style>
+  background: #000000;
+</style>
+![Cabeça processando códigos binários](programmer-head.png)
+
+# 👼 Babysteps - Comece por aqui ✨
  
  Sem pressão
  
