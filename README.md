@@ -1,4 +1,4 @@
-# 👼 Babysteps - Comece por aqui ✨
+# 👼 Comece por aqui ✨
  
  Sem pressão
  
