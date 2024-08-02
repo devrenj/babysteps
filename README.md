@@ -1,5 +1,13 @@
 # 👼 Babysteps
  Comece por aqui ✨
+ 
+ Sem pressão
+ 
+ Sem medo
+
+ Tenha foco
+
+ Desejo muito sucesso na sua jornada!
 
 # 💬 Termos usados
 
@@ -12,10 +20,13 @@
 <details>
 <summary>Tríade Web</summary>
 <br>
-É composto por três elementos:<br>
-• Marcação - HTML<br>
-• Estilização - CSS<br>
-• Interatividade - Javascript<br>
+<p>A Web é composta por três pilares:</p>
+<ul>
+<li>Marcação - HTML</li>
+<li>Estilização - CSS</li>
+<li>Interatividade - Javascript</li>
+</ul>
+<p>Essa combinação é muito poderosa para a criação de sites, nos possibilitando inúmeras possibilidades, como a criação de layouts complexos, a personalização visual detalhada e a implementação de funcionalidades dinâmicas que melhoram a experiência do usuário.</p>
 </details>
 <br>
 
@@ -35,6 +46,7 @@ Editor de códigos popular e leve, nele você pode escrever códigos e aplicar e
 
 - Instalação
   - Faça o download em: https://code.visualstudio.com/Download
+
 - Primeiro projeto no VS Code
   - Defina uma pasta para guardar os arquivos do projeto
   - Temos alguns caminhos para abrir um projeto:
@@ -43,13 +55,19 @@ Editor de códigos popular e leve, nele você pode escrever códigos e aplicar e
     3. Dentro da pasta escolhida, clique com botão direito e escolha `Abrir com Code`
     4. Em algum terminal, navegue com o comando `cd` até a pasta escolhida, agora digite o comando `code .`
   - Pronto, a partir de agora, todo seu projeto ficará dentro dessa pasta, para mudar o projeto que deseja desenvolver, basta mudar a pasta
+
 - Mudar idioma do editor para português:
   - Existem dois modos:
     1. Abra a paleta de comandos `CTRL + Shift + P` (Windows) e digite `display`, pressione `Enter` e digite `Brasil`, pressione enter para confirmar
     2. Pela aba View > Command Pallete... > Digite `display` > Pressione `Enter` > Digite `Brasill` > Pressione `Enter` para confirmar
+>[!NOTE]
+>Recomendo fortemente que mantenha o idioma padrão e comece a treinar seu inglês, para programar não precisamos saber outro idioma, mas na hora de ler alguma documentação, sites ou fóruns em sites estrangeiros, vai ser muito útil! Além disso, existem situações em que saber outro idioma pode ser um divisor de águas.
+
+> [!TIP] 
+> Desbloqueie seu pontencial no VS Code: https://github.com/bylearn/VS-Code-Produtividade-Infinita
 
 ## 🔹 Extensão: Code Runner
-Simplifica a execução de códigos no VS Code.
+### Simplifica a execução de códigos no VS Code.
 
 - Instalação:
   - Abra o VS Code
@@ -58,14 +76,15 @@ Simplifica a execução de códigos no VS Code.
 
 - Como saber se deu certo?
 
-  Um botão de play `▶` vai aparecer na tela principal do editor
+  Um botão de Play `▶` vai aparecer na tela principal do editor
 
 - Como executar um código?
 
   - Crie um arquivo
-  - Escreva seus comandos e execute através do botão play `▶`
+  - Escreva seus comandos e execute através do botão Play `▶`
 
 ## 🔹 Extensão: Live Server
+### Cria um servidor local que atualiza o conteúdo conforme você altera no editor, em tempo real
 
 - Instalação:
   - Abra o VS Code
@@ -74,22 +93,25 @@ Simplifica a execução de códigos no VS Code.
 
 - Como saber se deu certo?
 
-  Um botão escrito `Go live` vai aparecer na barra inferior do editor.
+  - Um botão escrito `Go live` vai aparecer na barra inferior do editor.
 
 - Como iniciar um servidor?
 
   - Crie um arquivo `index.html`
   - Clique no botão `Go live` ou clique no arquivo com o botão direito e selecione `Open with Live Server`
-
-- Desbloqueie seu pontencial no VS Code: https://github.com/bylearn/VS-Code-Produtividade-Infinita
+  - Perceba que agora o botão se chama `Port: Número`, por padrão o número é `5500`
+  - Caso necessário, acesse o servidor diretamente pelo navegador, digite na barra de endereços: `localhost:numero-da-porta`, por exemplo `localhost:5500`
+  - A primeira página que o Live Server procura é a `index.html`
+> [!TIP]
+> Se desejar usar outra página como principal no servidor, clique no arquivo com o botão direito e selecione `Open with Live Server`
 <br><br>
 
 # 👨‍💻 Programação
-Quer se tornar um bom programador? Aqui vão algumas dicas:
+### Quer se tornar um bom programador? Aqui vão algumas dicas:
 
 - Hello World!
 
-  O primeiro passo em qualquer ambiente novo, é imprimir um bom e velho `hello world`, é um passo importante porque para você conseguir essa façanha, tudo tem que estar funcionando.
+  Ou `Olá Mundo!` é o primeiro passo em qualquer ambiente novo. Imprimir um bom e velho `Hello World!`, é um passo importante porque para você conseguir essa façanha, tudo precisa estar funcionando.
 
 - Paciência!
 
@@ -118,6 +140,24 @@ Quer se tornar um bom programador? Aqui vão algumas dicas:
 > 
 > *-Eu mesmo.* ✍
 
+# 0. Lógica de Programação
+### "Mas o cara meteu um ZERO no primeiro tópico, por quê?" -Você mesmo.
+
+Começamos então a nossa jornada como programadores, já vamos aprender logo que nossa contagem será sempre a partir do zero 😎
+Vamos ser seres humanos com super-poderes, então a partir de agora contamos: "0, 1, 2, 3, 4..."
+
+<details>
+<summary>Por que aprender lógica?</summary>
+
+</details>
+<br>
+
+<details>
+<summary>Curso gratuito</summary>
+Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&si=aMa9d8hda9dPvjyY">Playlist Lógica de Programação - Curso em vídeo</a>
+</details>
+<br>
+
 # 1. Pseudocódigo
 
 # 1.2. Visualg - Português estruturado
@@ -132,6 +172,12 @@ Além disso, possui uma documentação enxuta e muito simples de entender. Acost
 </details>
 <br><br>
 
+<details>
+<summary>Curso gratuito</summary>
+Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&si=aMa9d8hda9dPvjyY">Playlist Lógica de Programação - Curso em vídeo</a>
+</details>
+<br>
+
 # 2. JS - Javascript
 Linguagem de programação avançada bastante popular e bem completa.
 
@@ -141,6 +187,11 @@ Tríade Web: `Interatividade`
 <summary>Saiba mais</summary>
 <br>
 Javascript ou ECMAScript, foi criado por Brendan Eich em 1995. É uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web e permite a criação de páginas da Web interativas e, portanto, é uma parte essencial dos aplicativos da web.
+</details>
+
+<details>
+<summary>Curso gratuito</summary>
+Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&si=7GSuPV5NltLfAv50">Playlist Javascript - Curso em vídeo</a>
 </details>
 
 ## 2.1. NODE
@@ -185,20 +236,52 @@ Formalmente, as especificações foram definidas somente na década de 1990. Em 
   - Digite `!` para ativar o *Emmet Abbreviation*
   - Selecione a opção que contém as tags: `DOCTYPE, HTML, HEAD, BODY`
 
+<details>
+<summary>Curso gratuito</summary>
+Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&si=8HkUu8Zu_2z6jYuH">Playlist HTML + CSS - Curso em vídeo</a>
+</details>
+<br>
+
 ## 4. CSS
 Cascading Style Sheets - é uma linguagem de estilo utilizada para descrever a apresentação de um documento HTML. Em outras palavras, ele é responsável por definir como os elementos HTML devem ser exibidos na tela.
 
 Tríade Web: `Estilização`
 
-## 5. Git
+<details>
+<summary>Curso gratuito</summary>
+Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&si=8HkUu8Zu_2z6jYuH">Playlist HTML + CSS - Curso em vídeo</a>
+</details>
+<br>
+
+## 5. Versionamento
+
+### 5.1. Git
+
 De longe, o sistema de controle de versão moderno mais usado no mundo hoje é o Git. O Git é um projeto de código aberto maduro e com manutenção ativa desenvolvido em 2005 por Linus Torvalds, o famoso criador do kernel do sistema operacional Linux.
 
+<details>
+<summary>Curso gratuito</summary>
+Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&si=F8KF5mqOORWM5aI6">Playlist Git & Github - Curso em vídeo</a>
+</details>
+<br>
+
 ## 6. Github
+
+<details>
+<summary>Curso gratuito</summary>
+Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&si=F8KF5mqOORWM5aI6">Playlist Git & Github - Curso em vídeo</a>
+</details>
+<br>
 
 ## 7. CLI
 
 Command Line Interface
-Comandos: https://ss64.com/
+
+<details>
+<summary>Lista de comandos</summary>
+Link: <a href="https://ss64.com/">https://ss64.com/</a>
+</details>
+<br>
 
 ### LICENSE
 Copyright (c) 2024 Roberto Nóbrega Jr. ([@devrenj](https://www.github.com/devrenj)) under MIT License
