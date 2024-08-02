@@ -11,12 +11,12 @@
 # 💬 Termos usados
 
 <details>
-<summary><a id="goto-lts">LTS</a></summary>
+<summary><a name="#goto-lts">LTS</a></summary>
 Versão 'Long Time Support' é um software que oferece estabilidade e suporte por longos períodos, geralmente para sistemas operacionais ou ferramentas de criação.<br>
 </details>
 
 <details>
-<summary><a id="goto-triade">Tríade Web</a></summary>
+<summary><a name="#goto-triade">Tríade Web</a></summary>
 <p>A Web é composta por três pilares:</p>
 <ul>
 <li>Marcação - HTML</li>
@@ -27,13 +27,13 @@ Versão 'Long Time Support' é um software que oferece estabilidade e suporte po
 </details>
 
 <details>
-<summary><a id="goto-emmet">Emmet Abbreviation</a></summary>
+<summary><a name="#goto-emmet">Emmet Abbreviation</a></summary>
 Anteriormente conhecido como Zen Coding, foi iniciado em 2008 com o objetivo de ajudar os desenvolvedores a escrever código de forma mais rápida e eficiente. Emmet é uma ferramenta poderosa para expandir abreviações curtas em blocos de código completos, facilitando a criação de HTML, CSS e outros tipos de código.<br><br>
 </details>
 
 
 <details>
-<summary><a id="goto-trilha">Trilha</a></summary>
+<summary><a name="#goto-trilha">Trilha</a></summary>
 É o termo usado para definir um caminho completo de desenvolvimento, do básico ao avançado, por exemplo:
 <ul>
 <li>Trilha de Javascript</li>
@@ -91,7 +91,7 @@ Editor de códigos popular e leve, nele você pode escrever códigos e aplicar e
   - Crie um arquivo
   - Escreva seus comandos e execute através do botão Play `▶`
 
-## 🔹 Extensão: [Live Server](goto-live-server)
+## 🔹 Extensão: Live Server
 ### Cria um servidor local que atualiza o conteúdo conforme você altera no editor, em tempo real
 
 - Instalação:
@@ -263,7 +263,7 @@ Formalmente, as especificações foram definidas somente na década de 1990. Em 
   - Dentro da tag `<body>`, abra uma tag `<h1>`
   - Escreva `Hello World!` logo após a abertura da tag `<h1>`
   - Feche a tag `</h1>`
-  - Abra o arquivo `nome.html` com o [Live Server](#goto-live-server) ou com o navegador de sua preferência
+  - Abra o arquivo `nome.html` com o [Live Server](#-extensão-live-server) ou com o navegador de sua preferência
 
 >[!TIP]
 >Por padrão, é recomendado o nome `index.html` para a página principal
