@@ -1,5 +1,5 @@
 <style>
-  html {background: #000000;}
+  body {background: #000000}
 </style>
 
 # 👼 Babysteps - Comece por aqui ✨
