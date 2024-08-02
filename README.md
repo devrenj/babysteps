@@ -8,7 +8,7 @@
 
  Desejo muito sucesso na sua jornada!
 
-# 💬 Termos usados
+## 💬 Termos usados
 
 <details>
 <summary><a name="#goto-lts">LTS</a></summary>
@@ -46,10 +46,10 @@ Anteriormente conhecido como Zen Coding, foi iniciado em 2008 com o objetivo de 
 <br>
 
 
-# ⚙ Configurando seu Ambiente de Programação 
+## ⚙ Configurando seu Ambiente de Programação 
 Vamos aprender o necessário para começar
 
-## 🔹 VS CODE
+### 🔹 VS CODE
 Editor de códigos popular e leve, nele você pode escrever códigos e aplicar extensões para melhorar sua produtividade conforme a necessidade do seu projeto.
 
 - Instalação
@@ -74,8 +74,8 @@ Editor de códigos popular e leve, nele você pode escrever códigos e aplicar e
 > [!TIP] 
 > Desbloqueie seu pontencial no VS Code: https://github.com/bylearn/VS-Code-Produtividade-Infinita
 
-## 🔹 Extensão: Code Runner
-### Simplifica a execução de códigos no VS Code.
+### 🔹 Extensão: Code Runner
+Simplifica a execução de códigos no VS Code.
 
 - Instalação:
   - Abra o VS Code
@@ -91,11 +91,11 @@ Editor de códigos popular e leve, nele você pode escrever códigos e aplicar e
   - Crie um arquivo
   - Escreva seus comandos e execute através do botão Play `▶`
 
-## 🔹 Extensão: Live Server
-### Cria um servidor local que atualiza o conteúdo conforme você altera no editor, em tempo real
+### 🔹 Extensão: Live Server
+Cria um servidor local que atualiza o conteúdo conforme você altera no editor, em tempo real
 
 - Instalação:
-  - Abra o VS Code
+  - Abra o [VS Code](#vs-code)
   - Na aba de extensões e pesquise por 'Live Server'
   - Clique em `Install`.
 
@@ -114,8 +114,8 @@ Editor de códigos popular e leve, nele você pode escrever códigos e aplicar e
 > Se desejar usar outra página como principal no servidor, clique no arquivo com o botão direito e selecione `Open with Live Server`
 <br><br>
 
-# 👨‍💻 Programação
-### Quer se tornar um bom programador? Aqui vão algumas dicas:
+## 👨‍💻 Programação
+Quer se tornar um bom programador? Aqui vão algumas dicas:
 
 - Hello World!
 
@@ -149,11 +149,11 @@ Editor de códigos popular e leve, nele você pode escrever códigos e aplicar e
 > 
 > *-Eu mesmo.* ✍
 
-# 0. Lógica de Programação
-### "Mas o cara meteu um ZERO no primeiro tópico, por quê?" -Você mesmo.
+## 0. Lógica de Programação
+>"Mas o cara meteu um ZERO no primeiro tópico, por quê?" -Você mesmo.
 
 Começamos então a nossa jornada como programadores, já vamos aprender logo que nossa contagem será sempre a partir do zero 😎
-Vamos ser seres humanos com super-poderes, então a partir de agora contamos: "0, 1, 2, 3, 4..."
+Seremos seres humanos com super-poderes, então a partir de agora contaremos: "0, 1, 2, 3, 4..."
 
 <details>
 <summary>Devo aprender lógica de programação primeiro?</summary>
@@ -171,9 +171,9 @@ Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqv
 </details>
 <br>
 
-# 1. Pseudocódigo
+## 1. Pseudocódigo
 
-# 1.2. Visualg - Português estruturado
+## 1.2. Visualg - Português estruturado
 Um ambiente de programação educativo que pode ser considerado uma excelente introdução à declaração e manipulação de variáveis, estruturas de repetição ou condicionais e também operadores. 
 
 <details>
@@ -191,8 +191,8 @@ Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqv
 </details>
 <br>
 
-# 2. JS - Javascript
-### Linguagem de programação avançada bastante popular e bem completa.
+## 2. JS - Javascript
+Linguagem de programação avançada bastante popular e bem completa.
 
 >[Tríade Web](#goto-triade) : `Interatividade`
 
