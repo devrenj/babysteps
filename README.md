@@ -202,6 +202,19 @@ Linguagem de programação avançada bastante popular e bem completa.
 Javascript ou ECMAScript, foi criado por Brendan Eich em 1995. É uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web e permite a criação de páginas da Web interativas e, portanto, é uma parte essencial dos aplicativos da web.<br><br>
 </details>
 
+- Hello World!
+  - Abra o [VS Code](#-vs-code)
+  - Crie um arquivo com a extensão `.js` (e.g.: `script.js`)
+  - Digite `console.log('Hello World!');`
+  - Para executar no [NODE](#21-node) digite node + o nome do arquivo no terminal (e.g.: `node script.js`)
+  - Para executar com o [Code Runner](#-extensão-code-runner): Aperte o Play `▶` na barra de ferramentas do editor
+  - Resultado:
+
+```Javascript
+console.log('Hello World!');
+// Output: Hello World!
+```
+ 
 <details>
 <summary>Curso gratuito</summary>
 Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&si=7GSuPV5NltLfAv50">Playlist Javascript - Curso em vídeo</a>
@@ -314,6 +327,19 @@ Lista de comandos: https://comandosgit.github.io
 
 ## 6. Github
 Rede social para programadores
+
+<details>
+<summary>Projetos recomendados</summary>
+<a href="https://github.com/AdrianaSaty/colinha-commit-semantico">https://github.com/AdrianaSaty/colinha-commit-semantico</a>
+<a href="https://github.com/KAYOKG/BibliotecaDev">https://github.com/KAYOKG/BibliotecaDev</a>
+<a href="https://github.com/free-educa/books">https://github.com/free-educa/books</a>
+<a href="https://github.com/ikatyang/emoji-cheat-sheet">https://github.com/ikatyang/emoji-cheat-sheet</a>
+<a href="https://github.com/EbookFoundation/free-programming-books">https://github.com/EbookFoundation/free-programming-books</a>
+<a href="https://github.com/florinpop17/app-ideas">https://github.com/florinpop17/app-ideas</a>
+
+<br><br>
+</details>
+
 <details>
 <summary>Curso gratuito</summary>
 Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&si=F8KF5mqOORWM5aI6">Playlist Git & Github - Curso em vídeo</a>
