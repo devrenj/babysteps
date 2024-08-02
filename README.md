@@ -11,14 +11,12 @@
 # 💬 Termos usados
 
 <details>
-<summary>LTS - Long Time Support</summary>
-<br>Versão LTS é um software que oferece estabilidade e suporte por longos períodos, geralmente para sistemas operacionais ou ferramentas de criação.<br>
+<summary><a id="goto-lts">LTS</a></summary>
+Versão 'Long Time Support' é um software que oferece estabilidade e suporte por longos períodos, geralmente para sistemas operacionais ou ferramentas de criação.<br>
 </details>
-<br>
 
 <details>
-<summary>Tríade Web</summary>
-<br>
+<summary><a id="goto-triade">Tríade Web</a></summary>
 <p>A Web é composta por três pilares:</p>
 <ul>
 <li>Marcação - HTML</li>
@@ -27,15 +25,26 @@
 </ul>
 <p>Essa combinação é muito poderosa para a criação de sites, nos possibilitando inúmeras possibilidades, como a criação de layouts complexos, a personalização visual detalhada e a implementação de funcionalidades dinâmicas que melhoram a experiência do usuário.</p>
 </details>
-<br>
 
 <details>
-<summary>Emmet Abbreviation</summary>
+<summary><a id="goto-emmet">Emmet Abbreviation</a></summary>
+Anteriormente conhecido como Zen Coding, foi iniciado em 2008 com o objetivo de ajudar os desenvolvedores a escrever código de forma mais rápida e eficiente. Emmet é uma ferramenta poderosa para expandir abreviações curtas em blocos de código completos, facilitando a criação de HTML, CSS e outros tipos de código.<br><br>
+</details>
+
+
+<details>
+<summary><a id="goto-trilha">Trilha</a></summary>
+É o termo usado para definir um caminho completo de desenvolvimento, do básico ao avançado, por exemplo:
+<ul>
+<li>Trilha de Javascript</li>
+<li>Trilha de Design UI/UX</li>
+<li>Trilha de Cloud Computing</li>
+</ul>
+<p><a href="https://roadmaps.sh">+ Ver mais trilhas</a></p>
 <br>
-O Emmet antes chamava Zen Coding e foi iniciado em 2008 com a proposta de ajudar os desenvolvedores escrever código com maior velocidade.
-<br>Apesar de ter caido no gosto da galera recentemente, esses plugins já são relativamente maduros e a sua inserção dentro dos principais editores de texto atuais fez com que sua utilização se tornasse muito popular.<br>
 </details>
 <br>
+
 
 # ⚙ Configurando seu Ambiente de Programação 
 Vamos aprender o necessário para começar
@@ -82,7 +91,7 @@ Editor de códigos popular e leve, nele você pode escrever códigos e aplicar e
   - Crie um arquivo
   - Escreva seus comandos e execute através do botão Play `▶`
 
-## 🔹 Extensão: Live Server
+## 🔹 Extensão: <a name="goto-live-server">Live Server</a>
 ### Cria um servidor local que atualiza o conteúdo conforme você altera no editor, em tempo real
 
 - Instalação:
@@ -116,11 +125,12 @@ Editor de códigos popular e leve, nele você pode escrever códigos e aplicar e
 
   Ninguém nasce sabendo e nem morre burro.
   
-  Tenha duas coisas em mente: 
+  Tenha três coisas em mente: 
 
   1. Uma linguagem de programação, como o próprio nome sugere, é um idioma totalmente novo onde você aprende a 'conversar' com um computador e instrui-lo através de algoritmos.
   
   2.  Se até um bebê consegue aprender, então todos nós temos essa capacidade por natureza! Até o fim da vida, ainda não teremos aprendido tudo.
+  3.  Você verá uma infinidade de conteúdos, não tente abraçar o mundo de uma vez só, seu objetivo é escolher uma [trilha](#goto-trilha) e se dedicar a tecnologias específicas, dessa forma, você será um profissional de destaque.
 
 - Persistência é a chave
 
@@ -146,10 +156,14 @@ Começamos então a nossa jornada como programadores, já vamos aprender logo qu
 Vamos ser seres humanos com super-poderes, então a partir de agora contamos: "0, 1, 2, 3, 4..."
 
 <details>
-<summary>Por que aprender lógica?</summary>
+<summary>Devo aprender lógica de programação primeiro?</summary>
 
-</details>
+Sim, é extremamente recomendado começar por aqui. 
+<br>A programação é um campo que exige bastante pensamento crítico e criatividade ao colocar as mãos na massa. Precisamos de ideias e um planejamento cuidadoso para criar soluções eficazes. Para isso, é fundamental ter uma base sólida em lógica de programação, que nos permite construir uma ponte entre o que queremos desenvolver e o resultado final.<br>
+<br>Além disso, aprender lógica de programação nos ajuda a desenvolver o Pensamento Computacional. Isso envolve entender quais informações a máquina precisa receber, como ela processará essas informações e o que retornará. Afinal, somos nós que adicionamos inteligência ao código.<br>
+<br>Uma boa lógica de programação facilita a aprendizagem das sintaxes das diversas linguagens de programação. Com uma base sólida, você será capaz de desenvolver estruturas na linguagem escolhida de maneira mais rápida e eficiente, transformando suas ideias em soluções práticas.
 <br>
+</details>
 
 <details>
 <summary>Curso gratuito</summary>
@@ -164,12 +178,12 @@ Um ambiente de programação educativo que pode ser considerado uma excelente in
 
 <details>
 <summary>Saiba mais</summary>
-<br>
+
 Embora muitas vezes subestimado pela comunidade mais avançada, seu verdadeiro propósito é justamente seu maior ponto positivo para iniciantes: não é uma linguagem de programação, mas permite aprender a programar sem a necessidade de saber inglês.
 <br><br>
 Além disso, possui uma documentação enxuta e muito simples de entender. Acostumar-se a ler documentações é um ponto extremamente positivo, e a estrutura desse ambiente permitirá que você compreenda qualquer outra linguagem de programação avançada.
-</details>
 <br><br>
+</details>
 
 <details>
 <summary>Curso gratuito</summary>
@@ -178,9 +192,9 @@ Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqv
 <br>
 
 # 2. JS - Javascript
-Linguagem de programação avançada bastante popular e bem completa.
+### Linguagem de programação avançada bastante popular e bem completa.
 
-Tríade Web: `Interatividade`
+>[Tríade Web](#goto-triade) : `Interatividade`
 
 <details>
 <summary>Saiba mais</summary>
@@ -197,7 +211,7 @@ Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl
 Ou Node.js, é um ambiente de execução que utiliza o mecanismo JavaScript V8, o mesmo núcleo do Google Chrome, mas operando fora do navegador, no lado do servidor. Isso significa que tudo o que você pode fazer no Node.js, também pode ser feito no console do [DevTools](https://developer.chrome.com/docs/devtools?hl=pt-br) para ser executado pelo navegador Web, no lado do cliente.
 
 - Instalação:
-  - Faça o download em: https://nodejs.org/pt (versão LTS).
+  - Faça o download em: https://nodejs.org/pt (versão [LTS](#goto-lts)).
   - Ao instalar o NODE, o NPM é habilitado automaticamente
 
 - Verificando a versão
@@ -211,10 +225,20 @@ Node Package Manager - É uma ferramenta essencial para gerenciar pacotes no amb
     - O NPM é habilitado quando instala o NODE 
     - Digite `npm -v` no terminal do NODE, se retornar a versão da instalação, está tudo ok
 
+<details>
+<summary>Por que aprender NPM?</summary>
+<br>
+À medida que você avança no desenvolvimento, perceberá a crescente necessidade de produzir, importar e executar projetos de maneira eficiente. É aqui que entra o NPM, uma ferramenta essencial para gerenciar dependências e módulos adicionais que enriquecem seu projeto com novas funcionalidades.
+<br><br>
+Imagine ter que adicionar cada módulo manualmente? Seria uma tarefa demorada e complicada! Com o NPM, você pode definir todas as dependências necessárias no arquivo `package.json`, e ele cuidará de instalar e gerenciar esses módulos para você.
+<br><br>
+Portanto, aprender NPM é fundamental para agilizar e simplificar seu fluxo de trabalho no desenvolvimento de projetos.
+</details>
+
 ## 3. HTML
 HyperText Markup Language - Linguagem de Marcação de Hipertexto, responsável por distribuir os elementos que aparecem em uma página Web. 
 
-Tríade Web: `Marcação`.
+>[Tríade Web](#goto-triade) : `Marcação`.
 
 <details>
 <summary>Saiba mais</summary>
@@ -231,10 +255,18 @@ Formalmente, as especificações foram definidas somente na década de 1990. Em 
 
 - Primeiro arquivo HTML
   - Abra o VS Code
-  - Crie um arquivo com a extensão `.html`
-  - Digite `!` para ativar o *Emmet Abbreviation*
+  - Crie um arquivo com a extensão `.html` (e.g.: `index.html`)
+  - Digite `!` para ativar o [Emmet Abbreviation](#goto-emmet)
   - Selecione a opção que contém as tags: `DOCTYPE, HTML, HEAD, BODY`
 
+- Hello World!
+  - Dentro da tag `<body>`, abra uma tag `<h1>`
+  - Escreva `Hello World!` logo após a abertura da tag `<h1>`
+  - Feche a tag `</h1>`
+  - Abra o arquivo `nome.html` com o [Live Server](#goto-live-server) ou com o navegador de sua preferência
+
+>[!TIP]
+>Por padrão, é recomendado o nome `index.html` para a página principal
 <details>
 <summary>Curso gratuito</summary>
 Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&si=8HkUu8Zu_2z6jYuH">Playlist HTML + CSS - Curso em vídeo</a>
@@ -244,7 +276,7 @@ Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHf
 ## 4. CSS
 Cascading Style Sheets - é uma linguagem de estilo utilizada para descrever a apresentação de um documento HTML. Em outras palavras, ele é responsável por definir como os elementos HTML devem ser exibidos na tela.
 
-Tríade Web: `Estilização`
+>[Tríade Web](#goto-triade) : `Estilização`
 
 <details>
 <summary>Curso gratuito</summary>
