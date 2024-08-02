@@ -19,9 +19,9 @@ Versão 'Long Time Support' é um software que oferece estabilidade e suporte po
 <summary><a name="goto-triade">Tríade Web</a></summary>
 <p>A Web é composta por três pilares:</p>
 <ul>
-<li>Marcação - [HTML](#3-html)</li>
-<li>Estilização - [CSS](#4-css)</li>
-<li>Interatividade - [Javascript](#2-js---javascript)</li>
+<li>Marcação - <a href="#3-html">HTML</a></li>
+<li>Estilização - <a href="#4-css">CSS</a></li>
+<li>Interatividade - <a href="#2-js---javascript">Javascript</a></li>
 </ul>
 <p>Essa combinação é muito poderosa para a criação de sites, nos possibilitando inúmeras possibilidades, como a criação de layouts complexos, a personalização visual detalhada e a implementação de funcionalidades dinâmicas que melhoram a experiência do usuário.</p>
 </details>
@@ -36,7 +36,7 @@ Anteriormente conhecido como Zen Coding, foi iniciado em 2008 com o objetivo de 
 <summary><a name="goto-trilha">Trilha</a></summary>
 É o termo usado para definir um caminho completo de desenvolvimento, do básico ao avançado, por exemplo:
 <ul>
-<li>Trilha de [Javascript](#2-js---javascript)</li>
+<li>Trilha de <a href="#2-js---javascript">Javascript</a></li>
 <li>Trilha de Design UI/UX</li>
 <li>Trilha de Cloud Computing</li>
 </ul>
