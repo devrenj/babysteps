@@ -110,6 +110,7 @@ Cria um servidor local que atualiza o conteúdo conforme você altera no editor,
   - Perceba que agora o botão se chama `Port: Número`, por padrão o número é `5500`
   - Caso necessário, acesse o servidor diretamente pelo navegador, digite na barra de endereços: `localhost:numero-da-porta`, por exemplo `localhost:5500`
   - A primeira página que o Live Server procura é a `index.html`
+
 > [!TIP]
 > Se desejar usar outra página como principal no servidor, clique no arquivo com o botão direito e selecione `Open with Live Server`
 <br><br>
