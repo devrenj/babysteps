@@ -11,12 +11,12 @@
 ## 💬 Termos usados
 
 <details>
-<summary><a name="#goto-lts">LTS</a></summary>
+<summary><a name="goto-lts">LTS</a></summary>
 Versão 'Long Time Support' é um software que oferece estabilidade e suporte por longos períodos, geralmente para sistemas operacionais ou ferramentas de criação.<br>
 </details>
 
 <details>
-<summary><a name="#goto-triade">Tríade Web</a></summary>
+<summary><a name="goto-triade">Tríade Web</a></summary>
 <p>A Web é composta por três pilares:</p>
 <ul>
 <li>Marcação - HTML</li>
@@ -27,13 +27,13 @@ Versão 'Long Time Support' é um software que oferece estabilidade e suporte po
 </details>
 
 <details>
-<summary><a name="#goto-emmet">Emmet Abbreviation</a></summary>
+<summary><a name="goto-emmet">Emmet Abbreviation</a></summary>
 Anteriormente conhecido como Zen Coding, foi iniciado em 2008 com o objetivo de ajudar os desenvolvedores a escrever código de forma mais rápida e eficiente. Emmet é uma ferramenta poderosa para expandir abreviações curtas em blocos de código completos, facilitando a criação de HTML, CSS e outros tipos de código.<br><br>
 </details>
 
 
 <details>
-<summary><a name="#goto-trilha">Trilha</a></summary>
+<summary><a name="goto-trilha">Trilha</a></summary>
 É o termo usado para definir um caminho completo de desenvolvimento, do básico ao avançado, por exemplo:
 <ul>
 <li>Trilha de Javascript</li>
@@ -75,10 +75,10 @@ Editor de códigos popular e leve, nele você pode escrever códigos e aplicar e
 > Desbloqueie seu pontencial no VS Code: https://github.com/bylearn/VS-Code-Produtividade-Infinita
 
 ### 🔹 Extensão: Code Runner
-Simplifica a execução de códigos no VS Code.
+Simplifica a execução de códigos no [VS Code](#-vs-code).
 
 - Instalação:
-  - Abra o VS Code
+  - Abra o [VS Code](#-vs-code)
   - Na aba de extensões e pesquise por 'Code Runner'
   - Clique em `Install`
 
@@ -95,7 +95,7 @@ Simplifica a execução de códigos no VS Code.
 Cria um servidor local que atualiza o conteúdo conforme você altera no editor, em tempo real
 
 - Instalação:
-  - Abra o [VS Code](#vs-code)
+  - Abra o [VS Code](#-vs-code)
   - Na aba de extensões e pesquise por 'Live Server'
   - Clique em `Install`.
 
@@ -160,7 +160,7 @@ Seremos seres humanos com super-poderes, então a partir de agora contaremos: "0
 <summary>Devo aprender lógica de programação primeiro?</summary>
 
 Sim, é extremamente recomendado começar por aqui. 
-<br>A programação é um campo que exige bastante pensamento crítico e criatividade ao colocar as mãos na massa. Precisamos de ideias e um planejamento cuidadoso para criar soluções eficazes. Para isso, é fundamental ter uma base sólida em lógica de programação, que nos permite construir uma ponte entre o que queremos desenvolver e o resultado final.<br>
+<br>A [programação](#-programação) é um campo que exige bastante pensamento crítico e criatividade ao colocar as mãos na massa. Precisamos de ideias e um planejamento cuidadoso para criar soluções eficazes. Para isso, é fundamental ter uma base sólida em lógica de programação, que nos permite construir uma ponte entre o que queremos desenvolver e o resultado final.<br>
 <br>Além disso, aprender lógica de programação nos ajuda a desenvolver o Pensamento Computacional. Isso envolve entender quais informações a máquina precisa receber, como ela processará essas informações e o que retornará. Afinal, somos nós que adicionamos inteligência ao código.<br>
 <br>Uma boa lógica de programação facilita a aprendizagem das sintaxes das diversas linguagens de programação. Com uma base sólida, você será capaz de desenvolver estruturas na linguagem escolhida de maneira mais rápida e eficiente, transformando suas ideias em soluções práticas.
 <br>
@@ -255,7 +255,7 @@ Formalmente, as especificações foram definidas somente na década de 1990. Em 
 <br>
 
 - Primeiro arquivo HTML
-  - Abra o VS Code
+  - Abra o [VS Code](#-vs-code)
   - Crie um arquivo com a extensão `.html` (e.g.: `index.html`)
   - Digite `!` para ativar o [Emmet Abbreviation](#goto-emmet)
   - Selecione a opção que contém as tags: `DOCTYPE, HTML, HEAD, BODY`
@@ -268,6 +268,7 @@ Formalmente, as especificações foram definidas somente na década de 1990. Em 
 
 >[!TIP]
 >Por padrão, é recomendado o nome `index.html` para a página principal
+
 <details>
 <summary>Curso gratuito</summary>
 Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&si=8HkUu8Zu_2z6jYuH">Playlist HTML + CSS - Curso em vídeo</a>
