@@ -199,8 +199,7 @@ Linguagem de programação avançada bastante popular e bem completa.
 
 <details>
 <summary>Saiba mais</summary>
-<br>
-Javascript ou ECMAScript, foi criado por Brendan Eich em 1995. É uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web e permite a criação de páginas da Web interativas e, portanto, é uma parte essencial dos aplicativos da web.
+Javascript ou ECMAScript, foi criado por Brendan Eich em 1995. É uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web e permite a criação de páginas da Web interativas e, portanto, é uma parte essencial dos aplicativos da web.<br><br>
 </details>
 
 <details>
@@ -281,40 +280,50 @@ Cascading Style Sheets - é uma linguagem de estilo utilizada para descrever a a
 >[Tríade Web](#goto-triade) : `Estilização`
 
 <details>
+<summary>Saiba mais</summary>
+</details>
+
+<details>
+
 <summary>Curso gratuito</summary>
 Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&si=8HkUu8Zu_2z6jYuH">Playlist HTML + CSS - Curso em vídeo</a>
 </details>
-<br>
 
 ## 5. Versionamento
+Controle de versões
 
 ### 5.1. Git
 
-De longe, o sistema de controle de versão moderno mais usado no mundo hoje é o Git. O Git é um projeto de código aberto maduro e com manutenção ativa desenvolvido em 2005 por Linus Torvalds, o famoso criador do kernel do sistema operacional Linux.
+Git é uma ferramenta que ajuda a gerenciar o código de projetos de software. Usando Git, você pode manter um registro de todas as mudanças feitas no código, o que facilita ver o histórico e corrigir problemas se algo der errado.
 
+<details>
+<summary>Saiba mais</summary>
+De longe, o sistema de controle de versão moderno mais usado no mundo hoje é o Git que é um projeto de código aberto maduro e com manutenção ativa desenvolvido em 2005 por [Linus Torvalds](https://pt.wikipedia.org/wiki/Linus_Torvalds), o famoso criador do kernel do sistema operacional [Linux](https://pt.wikipedia.org/wiki/Linux).<br>
+<br>Ele também torna mais fácil para várias pessoas trabalharem no mesmo projeto ao mesmo tempo, sem sobrescrever o trabalho de outras. Com Git, você pode criar “ramificações” para testar novas ideias sem afetar o código principal e depois juntar essas alterações de forma segura.<br>
+<br>Além disso, Git faz backup do código, garantindo que você não perca seu trabalho devido a falhas técnicas. Ele também ajuda a organizar o desenvolvimento e a manter a qualidade do código.<br>
+<br>Em resumo, Git é essencial para controlar e colaborar no desenvolvimento de software, tornando o trabalho mais seguro e eficiente.
+<br><br>
+</details>
 <details>
 <summary>Curso gratuito</summary>
 Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&si=F8KF5mqOORWM5aI6">Playlist Git & Github - Curso em vídeo</a>
+<br><br>
 </details>
-<br>
+
+Lista de comandos: https://comandosgit.github.io
 
 ## 6. Github
-
+Rede social para programadores
 <details>
 <summary>Curso gratuito</summary>
 Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&si=F8KF5mqOORWM5aI6">Playlist Git & Github - Curso em vídeo</a>
 </details>
-<br>
 
 ## 7. CLI
 
 Command Line Interface
 
-<details>
-<summary>Lista de comandos</summary>
-Link: <a href="https://ss64.com/">https://ss64.com/</a>
-</details>
-<br>
+Lista de comandos: https://ss64.com/
 
 ### LICENSE
 Copyright (c) 2024 Roberto Nóbrega Jr. ([@devrenj](https://www.github.com/devrenj)) under MIT License
