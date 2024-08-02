@@ -43,7 +43,16 @@ Anteriormente conhecido como Zen Coding, foi iniciado em 2008 com o objetivo de 
 <p><a href="https://roadmaps.sh">+ Ver mais trilhas</a></p>
 <br>
 </details>
+
+<details>
+<summary><a name="goto-hotkey">Hotkey</a></summary>
+São atalhos do teclado para acessar rapidamente algum comando, por exemplo:
+<br><br>
+CTRL + C - Copiar texto
 <br>
+CTRL + V - Colar texto
+<br>
+</details>
 
 
 ## ⚙ Configurando seu Ambiente de Programação 
@@ -60,13 +69,18 @@ Editor de códigos popular e leve, nele você pode escrever códigos e aplicar e
   - Temos alguns caminhos para abrir um projeto:
     1. File > Open Folder > Navegue até a pasta escolhida
     2. Arraste a pasta escolhida até o ícone do VS Code
-    3. Dentro da pasta escolhida, clique com botão direito e escolha `Abrir com Code`
+    3. Dentro da pasta escolhida, clique com botão direito e escolha a opção do menu de contexto `Abrir com Code`
     4. Em algum terminal, navegue com o comando `cd` até a pasta escolhida, agora digite o comando `code .`
   - Pronto, a partir de agora, todo seu projeto ficará dentro dessa pasta, para mudar o projeto que deseja desenvolver, basta mudar a pasta
 
+- Abrindo um <a name="goto-terminal">terminal de comando</a>
+  - Pela aba View > Terminal
+  - Pela [hotkey](#goto-hotkey) `CTRL + '` (ao lado do número 1)
+  - Na aba `+` tem uma seta que te permite abrir diferentes terminais (powershell, bash, etc...)
+
 - Mudar idioma do editor para português:
   - Existem dois modos:
-    1. Abra a paleta de comandos `CTRL + Shift + P` (Windows) e digite `display`, pressione `Enter` e digite `Brasil`, pressione enter para confirmar
+    1. Abra a paleta de comandos pela [hotkey](#goto-hotkey) `CTRL + Shift + P` (Windows) e digite `display`, pressione `Enter` e digite `Brasil`, pressione enter para confirmar
     2. Pela aba View > Command Pallete... > Digite `display` > Pressione `Enter` > Digite `Brasill` > Pressione `Enter` para confirmar
 >[!NOTE]
 >Recomendo fortemente que mantenha o idioma padrão e comece a treinar seu inglês, para programar não precisamos saber outro idioma, mas na hora de ler alguma documentação, sites ou fóruns em sites estrangeiros, vai ser muito útil! Além disso, existem situações em que saber outro idioma pode ser um divisor de águas.
@@ -92,7 +106,7 @@ Simplifica a execução de códigos no [VS Code](#-vs-code).
   - Escreva seus comandos e execute através do botão Play `▶`
 
 ### 🔹 Extensão: Live Server
-Cria um servidor local que atualiza o conteúdo conforme você altera no editor, em tempo real
+Cria um servidor local que atualiza o conteúdo conforme você altera o arquivo no editor, em tempo real
 
 - Instalação:
   - Abra o [VS Code](#-vs-code)
@@ -206,7 +220,7 @@ Javascript ou ECMAScript, foi criado por Brendan Eich em 1995. É uma linguagem 
   - Abra o [VS Code](#-vs-code)
   - Crie um arquivo com a extensão `.js` (e.g.: `script.js`)
   - Digite `console.log('Hello World!');`
-  - Para executar no [NODE](#21-node) digite node + o nome do arquivo no terminal (e.g.: `node script.js`)
+  - Para executar no terminal [NODE](#21-node) digite node + o nome do arquivo no terminal (e.g.: `node script.js`)
   - Para executar com o [Code Runner](#-extensão-code-runner): Aperte o Play `▶` na barra de ferramentas do editor
   - Resultado:
 
@@ -228,7 +242,7 @@ Ou Node.js, é um ambiente de execução que utiliza o mecanismo JavaScript V8, 
   - Ao instalar o NODE, o NPM é habilitado automaticamente
 
 - Verificando a versão
-  - Abra um terminal de comando
+  - Abra um [terminal de comando](#goto-terminal)
   - Digite `node -v`, se retornar a versão instalada, tudo certo, o NODE já está habilitado
 
 ## 2.2. NPM
