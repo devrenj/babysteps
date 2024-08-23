@@ -17,7 +17,7 @@ Utilize a extensão Dark Reader para ver qualquer página em modo ecsuro e poupe
 
 Se já sabe o que busca, vá direto ao ponto!
 
-[Estou Perdido](#0-lógica-de-programação) – [Por onde começar?](#por-onde-começar) – [VSCode](#-vs-code) – [Atalhos e Dicas VSCode](#-atalhos-e-dicas) – [Sites para Programadores](#-sites-para-programadores) – [Code Runner](#-extensão-code-runner) – [Live Server](#-extensão-live-server) – [Programação](#-programação) – [Lógica de Programação](#0-lógica-de-programação) – [Algoritmos](#1-algoritmos) – [JavaScript](#2-js---javascript) – [HTML](#3-html) – [CSS](#4-css) – [Pseudocódigo](#11-pseudocódigo) – [Visualg](#12-visualg) – [Portugol](#13-portugol) – [NODE](#21-node) – [NPM](#22-npm) – [GIT](#51-git) – [Github](#6-github) – [CLI](#7-cli) – [Terminal de Comando](#goto-terminal) – [Linkedin](#7-linkedin)
+[Estou Perdido](#0-lógica-de-programação) – [Por onde começar?](#por-onde-começar) – [VSCode](#-vs-code) – [Atalhos e Dicas VSCode](#-atalhos-e-dicas) – [Sites para Programadores](#-sites-para-programadores) – [Code Runner](#-extensão-code-runner) – [Live Server](#-extensão-live-server) – [Programação](#-programação) – [Lógica de Programação](#0-lógica-de-programação) – [Pseudocódigo](#11-pseudocódigo) – [Visualg](#12-visualg) – [Portugol](#13-portugol) – [Algoritmos](#1-algoritmos) – [JavaScript](#2-js---javascript) – [NODE](#21-node) – [NPM](#22-npm) – [HTML](#3-html) – [CSS](#4-css) – [GIT](#51-git) – [Github](#6-github) – [CLI](#7-cli) – [Terminal de Comando](#goto-terminal) – [Linkedin](#7-linkedin)
 
 ## 💬 Termos usados
 
