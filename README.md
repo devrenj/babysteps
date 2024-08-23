@@ -1,6 +1,6 @@
 # 👼 Comece por aqui ✨
  
- ![alt](https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)
+ ![Àrea de Trabalho](https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)
  <div align="center">Sem pressão • Sem medo • Tenha foco
 
  Te desejo muito sucesso nessa jornada!</div>
@@ -194,7 +194,7 @@ Eu costumo acessar o `settings.json`, lá ficam as configurações do usuário
 
 ![Dev](https://skillicons.dev/icons?i=devto&bnsp;theme=light)
 
-![alt](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)
+![Tecnologias Dev](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)
 
 ### Quer se tornar um bom programador? Aqui vão algumas dicas:
 
