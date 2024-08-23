@@ -1,9 +1,16 @@
 # 👼 Comece por aqui ✨
  
  ![Àrea de Trabalho](https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)
- <div align="center">Sem pressão • Sem medo • Tenha foco
+Sem pressão • Sem medo • Tenha foco
 
- Te desejo muito sucesso nessa jornada!</div>
+ Te desejo muito sucesso nessa jornada!
+
+## 🌓 Modo escuro
+
+Utilize a extensão Dark Reader para ver qualquer página em modo ecsuro e poupe alguns anos de vida útil das suas vistas
+
+[Chrome](https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
+ – [Edge](https://microsoftedge.microsoft.com/addons/detail/ifoakfbpdcdoeenechcleahebpibofpc?refid=bingshortanswersdownload)
 
 ## ⚡ TAGs
 
