@@ -1,12 +1,15 @@
 # 👼 Comece por aqui ✨
  
- Sem pressão
- 
- Sem medo
+ ![alt](https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)
+ <div align="center">Sem pressão • Sem medo • Tenha foco
 
- Tenha foco
+ Te desejo muito sucesso nessa jornada!</div>
 
- Desejo muito sucesso na sua jornada!
+## ⚡ TAGs
+
+Se já sabe o que busca, vá direto ao ponto!
+
+[Estou Perdido](#0-lógica-de-programação) – [Por onde começar?](#por-onde-começar) – [VSCode](#-vs-code) – [Atalhos e Dicas VSCode](#-atalhos-e-dicas) – [Sites para Programadores](#-sites-para-programadores) – [Code Runner](#-extensão-code-runner) – [Live Server](#-extensão-live-server) – [Programação](#-programação) – [Lógica de Programação](#0-lógica-de-programação) – [Algoritmos](#1-algoritmos) – [JavaScript](#2-js---javascript) – [HTML](#3-html) – [CSS](#4-css) – [Pseudocódigo](#11-pseudocódigo) – [Visualg](#12-visualg) – [Portugol](#13-portugol) – [NODE](#21-node) – [NPM](#22-npm) – [GIT](#51-git) – [Github](#6-github) – [CLI](#7-cli) – [Terminal de Comando](#goto-terminal) – [Linkedin](#7-linkedin)
 
 ## 💬 Termos usados
 
@@ -24,6 +27,10 @@ Versão 'Long Time Support' é um software que oferece estabilidade e suporte po
 <li>Interatividade - <a href="#2-js---javascript">Javascript</a></li>
 </ul>
 <p>Essa combinação é muito poderosa para a criação de sites, nos possibilitando inúmeras possibilidades, como a criação de layouts complexos, a personalização visual detalhada e a implementação de funcionalidades dinâmicas que melhoram a experiência do usuário.</p>
+<br>
+<p>O HTML seria como a estrutura da casa, incluindo as paredes, janelas e portas. Ele define a estrutura e a disposição dos elementos, mas não define como eles serão visualmente.<br><br>
+O CSS seria comparável à pintura e acabamento da casa. Ele define como a estrutura deve ser visualmente apresentada, como cores, fontes e layout. Assim como a pintura e o acabamento tornam a casa mais atraente, o CSS estiliza e ajusta a aparência dos elementos HTML.<br><br>
+O JavaScript é como a fiação elétrica e encanamentos da casa. Ele adiciona funcionalidade e interação, permitindo que os elementos da casa (ou página) "funcionem". Por exemplo, assim como a fiação permite que você acenda as luzes e o encanamento fornece água, o JavaScript permite que você adicione interatividade e lógica à sua página web, como responder a cliques, validar formulários, e assim por diante.</p>
 </details>
 
 <details>
@@ -58,30 +65,35 @@ CTRL + V - Colar texto
 ## ⚙ Configurando seu Ambiente de Programação 
 Vamos aprender o necessário para começar
 
-### 🔹 VS CODE
-Editor de códigos popular e leve, nele você pode escrever códigos e aplicar extensões para melhorar sua produtividade conforme a necessidade do seu projeto.
 
-- Instalação
+### 🔹 VS CODE 
+
+![VS Code](https://skillicons.dev/icons?i=vscode&bnsp;theme=light)
+
+Editor de códigos popular e leve, nele você pode escrever códigos e aplicar extensões para melhorar sua produtividade conforme a sua necessidade.
+
+### 🔹 Instalação
   - Faça o download em: https://code.visualstudio.com/Download
 
-- Primeiro projeto no VS Code
-  - Defina uma pasta para guardar os arquivos do projeto
-  - Temos alguns caminhos para abrir um projeto:
-    1. File > Open Folder > Navegue até a pasta escolhida
-    2. Arraste a pasta escolhida até o ícone do VS Code
-    3. Dentro da pasta escolhida, clique com botão direito e escolha a opção do menu de contexto `Abrir com Code`
-    4. Em algum terminal, navegue com o comando `cd` até a pasta escolhida, agora digite o comando `code .`
-  - Pronto, a partir de agora, todo seu projeto ficará dentro dessa pasta, para mudar o projeto que deseja desenvolver, basta mudar a pasta
+### 🔹 Primeiro projeto no VS Code
+- Defina uma pasta para guardar os arquivos do projeto
+- Temos alguns caminhos para abrir um projeto:
+  1. `File` > `Open Folder` > Navegue até a pasta escolhida
+  1. Arraste a pasta escolhida até o ícone do VS Code
+  1. Dentro da pasta escolhida, clique com botão direito e escolha a opção do menu de contexto `Abrir com Code`
+  1. Em algum terminal, navegue com o comando `cd` até a pasta escolhida, agora digite o comando `code .`
+
+Pronto! A partir de agora, todo seu projeto ficará dentro dessa pasta, para mudar o projeto que deseja desenvolver, basta abrir outra pasta!
 
 - Abrindo um <a name="goto-terminal">terminal de comando</a>
-  - Pela aba View > Terminal
-  - Pela [hotkey](#goto-hotkey) `CTRL + '` (ao lado do número 1)
-  - Na aba `+` tem uma seta que te permite abrir diferentes terminais (powershell, bash, etc...)
+  1. Pela aba `View` > `Terminal`
+  1. Pela [hotkey](#goto-hotkey) `CTRL + '`
+  1. Na aba `+` tem uma seta que te permite abrir diferentes [terminais](#7-cli) (powershell, bash, etc...)
 
-- Mudar idioma do editor para português:
-  - Existem dois modos:
-    1. Abra a paleta de comandos pela [hotkey](#goto-hotkey) `CTRL + Shift + P` (Windows) e digite `display`, pressione `Enter` e digite `Brasil`, pressione enter para confirmar
-    2. Pela aba View > Command Pallete... > Digite `display` > Pressione `Enter` > Digite `Brasill` > Pressione `Enter` para confirmar
+### 🔹 Mudar idioma do editor para português:
+- Aqui estão dois modos:
+  1. Abra a paleta de comandos pela [hotkey](#goto-hotkey) `CTRL + Shift + P` e digite `display`, pressione `Enter` e digite `Brasil`, pressione enter novamente para confirmar
+  2. Pela aba `View` > `Command Pallete...` > Digite `display` > Pressione `Enter` > Digite `Brasil` > Pressione `Enter` novamente para confirmar
 
 > <div class="markdown-alert markdown-alert-note" dir="auto"><p class="markdown-alert-title" dir="auto"><svg class="octicon octicon-info mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path></svg>Nota</p><p dir="auto">Recomendo fortemente que mantenha o idioma padrão e comece a treinar seu inglês, para programar não precisamos saber outro idioma, mas na hora de ler alguma documentação, sites ou fóruns em sites estrangeiros, vai ser muito útil! Além disso, existem situações em que saber outro idioma pode ser um divisor de águas.</p></div>
 
@@ -92,7 +104,7 @@ Simplifica a execução de códigos no [VS Code](#-vs-code).
 
 - Instalação:
   - Abra o [VS Code](#-vs-code)
-  - Na aba de extensões e pesquise por 'Code Runner'
+  - Na aba de extensões e pesquise por `Code Runner`
   - Clique em `Install`
 
 - Como saber se deu certo?
@@ -109,7 +121,7 @@ Cria um servidor local que atualiza o conteúdo conforme você altera o arquivo 
 
 - Instalação:
   - Abra o [VS Code](#-vs-code)
-  - Na aba de extensões e pesquise por 'Live Server'
+  - Na aba de extensões e pesquise por `Live Server`
   - Clique em `Install`.
 
 - Como saber se deu certo?
@@ -126,12 +138,69 @@ Cria um servidor local que atualiza o conteúdo conforme você altera o arquivo 
 
 > <div class="markdown-alert markdown-alert-tip" dir="auto"><p class="markdown-alert-title" dir="auto"><svg class="octicon octicon-light-bulb mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 0 1-1.484.211c-.04-.282-.163-.547-.37-.847a8.456 8.456 0 0 0-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.751.751 0 0 1-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75ZM5.75 12h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1 0-1.5ZM6 15.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 0 1.5h-2.5a.75.75 0 0 1-.75-.75Z"></path></svg>Dica</p><p dir="auto">Se desejar usar outra página como principal no servidor, clique no arquivo com o botão direito e selecione `Open with Live Server`</p></div>
 
+### 🔹 Atalhos e Dicas
+
+- Para salvar automaticamente, ative: `File` > `Auto Save`
+- Quando você usar um atalho e tiverem palavras com fundo branco, apertando a tecla `TAB` você consegue navegar entre elas
+
+### Comandos que ajudam muito:
+
+`CTRL + ,` - Abre as configurações do editor
+
+`CTRL + SHIFT + P` - Permite você escrever e acessar comandos. 
+Eu costumo acessar o `settings.json`, lá ficam as configurações do usuário
+
+`CTRL + SHIFT + F` - Pesquisa avançada, permite que você encontre uma determinada ocorrência e altere todas de uma vez com o `Replace`
+
+`CTRL + K` `CTRL + S` - Abre a lista de atalhos do teclado
+
+### Atalhos que uso com mais frequência:
+
+`CTRL + ESPAÇO` - Sugestões e Intellisense
+
+`CTRL + D` - Seleciona palavras semelhantes
+
+`CTRL + G` - Vai para alguma linha
+
+`CTRL + ;` - Comenta a linha na linguagem dela
+
+`CTRL + P` - Pesquisa um arquivo
+
+`CTRL + S` - Salvar arquivo
+
+`SHIFT + ENTER` - Saltar uma linha (para não ficar usando setas)
+
+`ALT + SETAS` - Mover linha
+
+`ALT + SHIFT` + SETAS - Copiar linha
+
+`ALT + CLIQUE` - Selecionar mais de uma linha com o cursor
+
+`DUPLO CLIQUE` (em alguma palavra) - Seleciona toda a palavra rapidamente, útil para variáveis
+
+### Snippets HTML
+
+`!` - Cria uma estrutura HTML
+
+`lorem` - Cria um texto aleatório, ideal para quando você está com pressa ou não quer pensar em um texto
+
+### Snippets Javascript
+
+`log` - Console.log();
+
+`forEach` - Estrutura forEach
+
 ## 👨‍💻 Programação
-Quer se tornar um bom programador? Aqui vão algumas dicas:
+
+![Dev](https://skillicons.dev/icons?i=devto&bnsp;theme=light)
+
+![alt](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)
+
+### Quer se tornar um bom programador? Aqui vão algumas dicas:
 
 - Hello World!
 
-  Ou `Olá Mundo!` é o primeiro passo em qualquer ambiente novo. Imprimir um bom e velho `Hello World!`, é um passo importante porque para você conseguir essa façanha, tudo precisa estar funcionando.
+  Ou `Olá Mundo!` é o primeiro passo em qualquer ambiente novo. Imprimir um bom e velho `Hello World!`, é interessante aplica-lo pois garante que para ser exibido, tudo tem que estar funcionando corretamente.
 
 - Paciência!
 
@@ -141,56 +210,200 @@ Quer se tornar um bom programador? Aqui vão algumas dicas:
 
   1. Uma linguagem de programação, como o próprio nome sugere, é um idioma totalmente novo onde você aprende a 'conversar' com um computador e instrui-lo através de algoritmos.
   
-  2.  Se até um bebê consegue aprender, então todos nós temos essa capacidade por natureza! Até o fim da vida, ainda não teremos aprendido tudo.
-  3.  Você verá uma infinidade de conteúdos, não tente abraçar o mundo de uma vez só, seu objetivo é escolher uma [trilha](#goto-trilha) e se dedicar a tecnologias específicas, dessa forma, você será um profissional de destaque.
+  1.  Se até mesmo um bebê consegue aprender, significa que todos nós temos essa capacidade por natureza! E até o fim da vida, ainda não teremos aprendido tudo.
+  1.  Você verá uma infinidade de conteúdos, não tente abraçar o mundo de uma vez só, seu objetivo inicial é escolher uma [trilha](#goto-trilha) e se dedicar a tecnologias específicas, dessa forma, você será um profissional de grande destaque.
 
-- Persistência é a chave
+- Persistência é a chave!
 
-  Treine, treine, e quando acabar: Treine!
+  Pratique, Pratique, Pratique e quando acabar: **Pratique**!
   
   Dessa forma, você elevará seu conhecimento a um nível que você jamais imaginou existir.
 
-- Anotações ajudam a fixar conteúdo
+  O cérebro funciona semelhante a um músculo, é preciso exercitá-lo diariamente para fortalece-lo e ter um melhor desempenho.
 
-  Dê uma chance ao papel e caneta para aprimorar seu pensamento computacional, com o tempo, tudo o que produzir se tornará um grande material para consulta.
+  É muito importante se desenvolver para ter uma `caixa de ferramentas` (cérebro) com cada vez `ferramentas` (conhecimento).
+
+- Anotações ajudam muito a fixar conteúdo!
+
+  Dê uma chance ao papel e caneta para aprimorar seu pensamento computacional, com o tempo, tudo o que produzir se tornará um grande material para sua própria consulta.
+
+  Tente desenvolver soluções no papel, isso ajuda muito a clarear até mesmo onde pode estar errando em algum código.
+
 
   Ao longo dos estudos você conhecerá ferramentas de produtividade que te ajudarão muito! 
 <br><br>
 
 > *Informação nova é igual água turva, você precisa filtrar várias vezes antes de ficar cristalina.* 
 > 
-> *-Eu mesmo.* ✍
+> *-void Beto( );* ✍
+
+[Pesquisa do canal Código Fonte](https://pesquisa.codigofonte.com.br/2024)
+
+[Trilhas de Conhecimento](https://roadmap.sh)
+
+### 🔹 Sites para Programadores
+
+Uma porrada de conteúdo para você mergulhar!
+
+### Contendo cursos gratuitos
+
+[Curso em Vídeo](https://cursoemvideo.com) – [Dio](https://dio.me) – [W3 Schools](https://w3schools.com) – [MDN - Mozilla Developer](https://developer.mozilla.org/pt) – [Code Academy](https://www.codecademy.com) – [Escola do Trabalhador 4.0 (Governo)](http://escoladotrabalhador.gov.br) – [Capgemini](https://startcapgemini.com.br) – [Coursera](https://www.coursera.org) – [Bettha](https://www.bettha.com/certificadosgoogle) – [Santander Open Academy](https://www.santanderopenacademy.com/pt_br/index.html) – [Fundação Bradesco](https://www.ev.org.br)
+
+### Contendo cursos pagos
+
+[Udemy](https://udemy.com) – [Origamid](https://www.origamid.com) – [Filipe Deschamps](https://filipedeschamps.com.br) – [Alura](https://www.alura.com.br) – [EBAC](https://ebaconline.com.br) – [One Bit Code](https://www.onebitcode.com)
+
+### Contendo excelentes Artigos e Recursos
+
+[Código Fonte](https://codigofonte.com.br) – [Luiz Tools](https://luiztools.com.br) – [DevMedia](https://www.devmedia.com.br/artigos/iniciantes) – [FreeCodeCamp](https://www.freecodecamp.org/portuguese/news/) – [Stack Overflow](https://pt.stackoverflow.com) – [Dev.to](https://dev.to/t/brasil)
 
 ## 0. Lógica de Programação
->"Mas o cara meteu um ZERO no primeiro tópico, por quê?" -Você mesmo.
 
-Começamos então a nossa jornada como programadores, já vamos aprender logo que nossa contagem será sempre a partir do zero 😎
-Seremos seres humanos com super-poderes, então a partir de agora contaremos: "0, 1, 2, 3, 4..."
+![Lógica](https://skillicons.dev/icons?i=githubactions)
+
+>"É isso mesmo? um ZERO no primeiro tópico, por quê?"
+>
+> - Você mesmo.
+
+Começamos então a nossa jornada como programadores, já vamos aprender logo que a partir de agora, nossa contagem numérica se inicia do zero 😎
+
+Seremos seres humanos com super-poderes, então contamos: "0, 1, 2, 3, 4..."
+
+A lógica de programação é fundamental porque ajuda você a pensar de maneira estruturada e eficiente sobre como resolver problemas, seja escrevendo código, criando algoritmos ou mesmo apenas planejando uma solução, isso vai te acompanhar por toda a sua vida pois até mesmo quem não programa precisa se organizar e para isso, utilizam a lógica.
+
+Eu indico sempre que se aprenda lógica de programação, seja com visualg ou diretamente em alguma linguagem de programação pois sabendo bem definir as estruturas, é possível aplicar em qualquer linguagem, o que muda é apenas `sintaxe`.
+
+Feito isso, você estará pronto para aprender uma nova `linguagem de programação`!
+
+### Por onde começar?
+
+Dica de sequencia de assuntos para estudar e ter uma boa base:
+- Tipos de dados
+- Operadores (lógicos, relacionais, aritméticos)
+- Variáveis e Constantes
+- Estruturas Condicionais
+- Laços de Repetição
+- Vetores
+- Funções
+- Escopo
+- Closures
+- Matrizes
+- Funções de Vetores
+- Callbacks
+- Assíncronismo
+- Consumo de API
+
+<details>
+<summary>Veja essa lista mais detalhada</summary>
+<br>
+<ol>
+  <li>Tipos de Dados: Entenda os diferentes tipos de dados e como eles são usados.</li><br>
+  <li>Variáveis e Constantes: Aprenda a declarar e usar variáveis e constantes para armazenar dados.</li><br>
+  <li>Operadores (lógicos, relacionais, aritméticos): Estude como realizar operações e comparações com os dados.</li><br>
+  <li>Estruturas Condicionais: Descubra como tomar decisões no código usando `if`, `else`, e `switch`.</li><br>
+  <li>Laços de Repetição: Aprenda a usar loops (`for`, `while`, `do-while`) para repetir ações.</li><br>
+  <li>Vetores: Entenda como trabalhar com arrays para armazenar listas de valores.</li><br>
+  <li>Funções: Descubra como criar e utilizar funções para organizar e reutilizar código.</li><br>
+  <li>Closures: Explore closures para entender como funções podem acessar variáveis fora de seu escopo.</li><br>
+  <li>Escopo: Compreenda o conceito de escopo, que define onde variáveis e funções são acessíveis dentro do código. Isso ajuda a evitar conflitos e garantir que o código funcione conforme o esperado.</li><br>
+  <li>Matrizes: Aprenda a manipular matrizes para trabalhar com dados multidimensionais.</li><br>
+  <li>Funções de Vetores: Estude funções que operam sobre vetores, como métodos de ordenação e busca.</li><br>
+  <li>Callbacks: Entenda como usar callbacks para manejar funções passadas como argumentos.</li><br>
+  <li>Assíncronismo: Explore conceitos de programação assíncrona, como promessas e `async/await`, para lidar com operações que demoram.</li><br>
+  <li>Consumo de API: Por fim, aprenda a consumir APIs para interagir com serviços externos e manipular dados da web.</li><br>
+</ol>
+<br>
+</details>
+
+<details>
+<summary>O que é sintaxe?</summary>
+<p>Sintaxe é o conjunto de regras que define como escrever código em uma linguagem de programação para que seja compreendido pelo computador e pelo programador. Ela especifica a estrutura correta dos comandos e declarações, incluindo a forma como os elementos da linguagem (como palavras-chave, operadores, e delimitadores) devem ser organizados.</p>
+</details>
 
 <details>
 <summary>Devo aprender lógica de programação primeiro?</summary>
-
 Sim, é extremamente recomendado começar por aqui. 
-<br>A [programação](#-programação) é um campo que exige bastante pensamento crítico e criatividade ao colocar as mãos na massa. Precisamos de ideias e um planejamento cuidadoso para criar soluções eficazes. Para isso, é fundamental ter uma base sólida em lógica de programação, que nos permite construir uma ponte entre o que queremos desenvolver e o resultado final.<br>
-<br>Além disso, aprender lógica de programação nos ajuda a desenvolver o Pensamento Computacional. Isso envolve entender quais informações a máquina precisa receber, como ela processará essas informações e o que retornará. Afinal, somos nós que adicionamos inteligência ao código.<br>
+<br>A <a href="#-programação">Programação</a> é um campo que exige bastante pensamento crítico e criatividade ao colocar as mãos na massa. Precisamos de ideias e um planejamento cuidadoso para criar soluções eficazes. Para isso, é fundamental ter uma base sólida em lógica de programação, que nos permite construir uma ponte entre o que queremos desenvolver (ideia) e o resultado final.<br>
+<br>Além disso, aprender lógica de programação nos ajuda a desenvolver o Pensamento Computacional. Isso envolve entender quais informações a máquina precisa receber, como ela processará essas informações e o que retornará. Afinal, somos nós que adicionamos nossa inteligência natural ao código, sem isso o programa não consegue agir de forma autonoma.<br>
 <br>Uma boa lógica de programação facilita a aprendizagem das sintaxes das diversas linguagens de programação. Com uma base sólida, você será capaz de desenvolver estruturas na linguagem escolhida de maneira mais rápida e eficiente, transformando suas ideias em soluções práticas.
 <br>
 </details>
 
 <details>
 <summary>Curso gratuito</summary>
-Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&si=aMa9d8hda9dPvjyY">Playlist Lógica de Programação - Curso em vídeo</a>
+Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&si=aMa9d8hda9dPvjyY">Lógica de Programação - Curso em vídeo</a>
 </details>
 <br>
 
-## 1. Pseudocódigo
+## 1. Algoritmos
 
-## 1.2. Visualg - Português estruturado
-Um ambiente de programação educativo que pode ser considerado uma excelente introdução à declaração e manipulação de variáveis, estruturas de repetição ou condicionais e também operadores. 
+![Algoritmos](https://skillicons.dev/icons?i=kafka&bnsp;theme=light)
+
+![Algoritmos](img/algoritmos.png)
+
+O algoritmo é a sequência de instruções que permite você criar uma solução para atingir seu objetivo. Basicamente é o conjunto de instruções que permite a máquina compreender o que deve ser feito.
+
+É possível pegar qualquer coisa que a gente faz cotidianamente e transformar em um algoritmo. Podemos pegar qualquer atividade cotidiana e transformá-la em um algoritmo. Basta entender os processos envolvidos para criá-lo. Por exemplo: levantar da cama e preparar um pão com manteiga para o café da manhã.
+
+Pensando de forma computacional: 
+
+Essas etapas formam uma **rotina** matinal!
+
+E toda rotina pode ser automatizada 💡
+
+## 1.1 Pseudocódigo
+
+![Pseudocódigo](https://skillicons.dev/icons?i=actix)
+
+O pseudocódigo é uma representação textual de um algoritmo que utiliza uma linguagem semelhante à programação, mas sem seguir regras sintáticas estritas de nenhuma linguagem em particular. Ele serve como uma ponte entre o algoritmo e a codificação real, facilitando a tradução do algoritmo para um programa executável.
+
+Vamos então **CRIAR** as instruções do algoritmo `Rotina Matinal`:
+
+``` 
+Algoritmo: Rotina Matinal
+
+1. Inicio
+
+2. Acordar:
+  - Verifico se acordei.
+  - Se acordei, continuo para o próximo passo.
+
+3. Levantar da Cama:
+  - Me levanto da cama.
+
+4. Higiene Pessoal:
+  - Vou ao banheiro.
+  - Escovo meus dentes.
+  - Lavo meu rosto.
+
+5. Tomar Café da Manhã:
+  - Vou à cozinha.
+  - Preparo o café da manhã.
+  - Tomo o café da manhã.
+
+6. Preparar Material de Estudo:
+  - Organizo os materiais necessários para o estudo (livros, cadernos, computador, etc.).
+
+7. Começar a Estudar:
+  - Me sento no local de estudo.
+  - Inicio a sessão de estudo.
+
+8. Fim do Algoritmo
+
+```
+
+Neste exemplo, descrevemos de forma detalhada os passos (lógica) necessários para a execução da nossa tarefa (algoritmo). Isso é semelhante ao que fazemos ao desenvolver programas, **criando soluções** para problemas.
+
+## 1.2. Visualg
+
+Um ambiente de programação educativo que pode ser considerado uma excelente introdução ao mundo da programação, tendo como base o estudo aplicado da lógica de programaçao através do português estruturado.
+
+[Documentação do Visualg](https://www.acad.cefetmg.br/uploads/MATERIAIS_AULAS/340988-A_Linguagem_de_Programa%C3%A7%C3%A3o_do_VisuAlg.pdf)
+
+[Apostila USP Visualg](https://www.lsi.usp.br/~paiva/algoritmo/Manual%20Visualg.pdf)
 
 <details>
 <summary>Saiba mais</summary>
-
 Embora muitas vezes subestimado pela comunidade mais avançada, seu verdadeiro propósito é justamente seu maior ponto positivo para iniciantes: não é uma linguagem de programação, mas permite aprender a programar sem a necessidade de saber inglês.
 <br><br>
 Além disso, possui uma documentação enxuta e muito simples de entender. Acostumar-se a ler documentações é um ponto extremamente positivo, e a estrutura desse ambiente permitirá que você compreenda qualquer outra linguagem de programação avançada.
@@ -199,11 +412,68 @@ Além disso, possui uma documentação enxuta e muito simples de entender. Acost
 
 <details>
 <summary>Curso gratuito</summary>
-Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&si=aMa9d8hda9dPvjyY">Playlist Lógica de Programação - Curso em vídeo</a>
+Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&si=aMa9d8hda9dPvjyY">Lógica de Programação - Curso em vídeo</a>
 </details>
 <br>
 
+## 1.3 Portugol
+
+Linguagem Portugol
+
+Uma linguagem de programação é um método padronizado para comunicar instruções para um computador. É um conjunto de regras sintáticas e semânticas usadas para definir um programa de computador. Permite que um programador especifique precisamente sobre quais dados um computador vai atuar, como estes dados serão armazenados ou transmitidos e quais ações devem ser tomadas sob várias circunstâncias.
+
+O Portugol é uma representação que se assemelha bastante com a linguagem C, porém é escrito em português. A ideia é facilitar a construção e a leitura dos algoritmos usando uma linguagem mais fácil aos alunos.
+
+[Portugol Studio](https://portugol.dev)
+
+## 1.4 Inteligência Artificial
+
+![IA](https://skillicons.dev/icons?i=atom&bnsp;theme=light)
+
+Na hora de aprender, a IA é uma grande aliada para você aprofundar nos estudos!
+
+Quando não temos um professor ou especialista disponível, uma conversa generativa pode ser extremamente útil. Ela pode ajudar a esclarecer detalhes de um código, explicar conceitos que não entendemos bem e até sugerir novos tópicos de estudo.
+
+### ChatGPT
+
+[Site do ChatGPT](https://chat.openai.com)
+
+O ChatGPT é um modelo de linguagem desenvolvido pela OpenAI que pode compreender e gerar texto em linguagem natural. Ele é utilizado para uma variedade de tarefas, incluindo responder perguntas, gerar textos criativos e auxiliar na programação.
+
+### Google Gemini
+
+[Site do Google Gemini](https://gemini.google)
+
+O Google Gemini é uma plataforma de IA para geração de texto e análise de linguagem, desenvolvida pelo Google.
+
+### Microsoft Copilot
+
+[Site do Microsoft Copilot](https://www.microsoft.com/en-us/microsoft-365/copilot)
+
+O Microsoft Copilot é uma ferramenta integrada ao Microsoft 365 que auxilia na criação e edição de documentos e e-mails, usando IA para melhorar a produtividade.
+
+### Como criar prompts?
+
+É possível direcionar a inteligência artificial para obter respostas mais precisas por meio de `prompts`. Eles devem ser claros e específicos, incluindo detalhes e contexto quando necessário. Ajuste os prompts conforme a resposta recebida para obter informações mais relevantes.
+
+#### Exemplos de prompts
+
+**Para obter uma explicação simples sobre um conceito:**
+   - "Explique o que é 'machine learning' em termos simples."
+
+**Para pedir ajuda com um problema específico:**
+   - "Sou um desenvolvedor iniciante e preciso de um exemplo de como usar a função `map()` em JavaScript. Pode me ajudar com isso?"
+
+**Para solicitar conselhos ou sugestões, incluindo um role específico:**
+   - "Como um especialista em otimização de desempenho, quais são as melhores práticas para melhorar a eficiência de uma aplicação Node.js?"
+
+**Para obter informações sobre tendências ou novidades, incluindo um role específico:**
+   - "Como um analista de tendências tecnológicas, quais são as últimas inovações em desenvolvimento de IA em 2024?"
+
 ## 2. JS - Javascript
+
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+
 Linguagem de programação avançada bastante popular e bem completa.
 
 >[Tríade Web](#goto-triade) : `Interatividade`
@@ -215,23 +485,32 @@ Javascript ou ECMAScript, foi criado por Brendan Eich em 1995. É uma linguagem 
 
 - Hello World!
   - Abra o [VS Code](#-vs-code)
-  - Crie um arquivo com a extensão `.js` (e.g. `script.js`)
-  - Digite `console.log('Hello World!');`
-  - Para executar no terminal [NODE](#21-node) digite node + o nome do arquivo no terminal (e.g. `node script.js`)
+  - Crie um arquivo com a extensão `.js` (e.g.. `script.js`)
+  - Digite
+  ```javascript
+  console.log('Hello World!');
+  ```
+  - Para executar no terminal [NODE](#21-node) digite node + o nome do arquivo no terminal, e.g.
+  ```bash
+  node script.js
+  ```
   - Para executar com o [Code Runner](#-extensão-code-runner): Aperte o Play `▶` na barra de ferramentas do editor
   - Resultado:
 
-```Javascript
-console.log('Hello World!');
-// Saída: Hello World!
-```
+  ```Javascript
+  console.log('Hello World!');
+  // Saída: Hello World!
+  ```
  
 <details>
 <summary>Curso gratuito</summary>
-Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&si=7GSuPV5NltLfAv50">Playlist Javascript - Curso em vídeo</a>
+Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&si=7GSuPV5NltLfAv50">Javascript - Curso em vídeo</a>
 </details>
 
 ## 2.1. NODE
+
+![NODE](https://skillicons.dev/icons?i=nodejs)
+
 Ou Node.js, é um ambiente de execução que utiliza o mecanismo JavaScript V8, o mesmo núcleo do Google Chrome, mas operando fora do navegador, no lado do servidor. Isso significa que tudo o que você pode fazer no Node.js, também pode ser feito no console do [DevTools](https://developer.chrome.com/docs/devtools?hl=pt-br) para ser executado pelo navegador Web, no lado do cliente.
 
 - Instalação:
@@ -243,23 +522,29 @@ Ou Node.js, é um ambiente de execução que utiliza o mecanismo JavaScript V8, 
   - Digite `node -v`, se retornar a versão instalada, tudo certo, o NODE já está habilitado
 
 ## 2.2. NPM
+
+![NPM](https://skillicons.dev/icons?i=npm)
+
 Node Package Manager - É uma ferramenta essencial para gerenciar pacotes no ambiente Node.js. Com o NPM, você pode instalar, compartilhar e gerenciar bibliotecas e ferramentas reutilizáveis, facilitando a integração de funcionalidades em seus projetos.
 
   - Verificar a versão do NPM
     - O NPM é habilitado quando instala o NODE 
-    - Digite `npm -v` no terminal do NODE, se retornar a versão da instalação, está tudo ok
+    - Digite `npm -v` no terminal do NODE, se tudo estiver ok então mostra a versão da instalação
 
 <details>
 <summary>Por que aprender NPM?</summary>
 <br>
 À medida que você avança no desenvolvimento, perceberá a crescente necessidade de produzir, importar e executar projetos de maneira eficiente. É aqui que entra o NPM, uma ferramenta essencial para gerenciar dependências e módulos adicionais que enriquecem seu projeto com novas funcionalidades.
 <br><br>
-Imagine ter que adicionar cada módulo manualmente? Seria uma tarefa demorada e complicada! Com o NPM, você pode definir todas as dependências necessárias no arquivo `package.json`, e ele cuidará de instalar e gerenciar esses módulos para você.
+Imagine ter que adicionar cada módulo manualmente? Seria uma tarefa demorada e complicada! Com o NPM, você pode definir todas as dependências necessárias no arquivo 'package.json', e ele cuidará de instalar e gerenciar esses módulos para você.
 <br><br>
 Portanto, aprender NPM é fundamental para agilizar e simplificar seu fluxo de trabalho no desenvolvimento de projetos.
 </details>
 
 ## 3. HTML
+
+![HTML](https://skillicons.dev/icons?i=html)
+
 HyperText Markup Language - Linguagem de Marcação de Hipertexto, responsável por distribuir os elementos que aparecem em uma página Web. 
 
 >[Tríade Web](#goto-triade) : `Marcação`.
@@ -279,28 +564,37 @@ Formalmente, as especificações foram definidas somente na década de 1990. Em 
 
 - Primeiro arquivo HTML
   - Abra o [VS Code](#-vs-code)
-  - Crie um arquivo com a extensão `.html` (e.g. `index.html`)
+  - Crie um arquivo com a extensão `.html` (e.g.. `index.html`)
   - Digite `!` para ativar o [Emmet Abbreviation](#goto-emmet)
-  - Selecione a opção que contém as tags: `DOCTYPE, HTML, HEAD, BODY`
+  - Selecione a opção que contém a sequência de tags: `DOCTYPE, HTML, HEAD, BODY`
 
 - Hello World!
-  - Dentro da tag `<body>`, abra uma tag `<h1>`
-  - Escreva `Hello World!` logo após a abertura da tag `<h1>`
-  - Feche a tag `</h1>`
+  - Dentro da tag `<body>`, abra uma tag `<h1>` e feche em seguida `</h1>`
+  - Escreva `Hello World!` entre as tags de abertura e fechamento do elemento H1
   - Abra o arquivo `nome.html` com o [Live Server](#-extensão-live-server) ou com o navegador de sua preferência
 
 > <div class="markdown-alert markdown-alert-tip" dir="auto"><p class="markdown-alert-title" dir="auto"><svg class="octicon octicon-light-bulb mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 0 1-1.484.211c-.04-.282-.163-.547-.37-.847a8.456 8.456 0 0 0-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.751.751 0 0 1-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75ZM5.75 12h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1 0-1.5ZM6 15.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 0 1.5h-2.5a.75.75 0 0 1-.75-.75Z"></path></svg>Dica</p><p dir="auto">Por padrão, é recomendado o nome `index.html` para a página principal</p></div>
 
+[Documentação HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+
 <details>
 <summary>Curso gratuito</summary>
-Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&si=8HkUu8Zu_2z6jYuH">Playlist HTML + CSS - Curso em vídeo</a>
+Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&si=8HkUu8Zu_2z6jYuH">HTML + CSS - Curso em vídeo</a>
 </details>
 <br>
 
+
 ## 4. CSS
+
+![CSS](https://skillicons.dev/icons?i=css)
+
 Cascading Style Sheets - é uma linguagem de estilo utilizada para descrever a apresentação de um documento HTML. Em outras palavras, ele é responsável por definir como os elementos HTML devem ser exibidos na tela.
 
 >[Tríade Web](#goto-triade) : `Estilização`
+
+[Documentação CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+[Aprenda CSS](https://www.w3schools.com/css/default.asp)
 
 <details>
 <summary>Saiba mais</summary>
@@ -309,15 +603,28 @@ Cascading Style Sheets - é uma linguagem de estilo utilizada para descrever a a
 <details>
 
 <summary>Curso gratuito</summary>
-Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&si=8HkUu8Zu_2z6jYuH">Playlist HTML + CSS - Curso em vídeo</a>
+Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&si=8HkUu8Zu_2z6jYuH">HTML + CSS - Curso em vídeo</a>
 </details>
 
-## 5. Versionamento
-Controle de versões
+### 4.1 Bootstrap
 
-### 5.1. Git
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap&bnsp;theme=light)
+
+Uma biblioteca de código CSS desenvolvida pelo Twitter, muito utilizada por programadores do mundo todo. Ela fornece uma coleção de ferramentas e estilos para criar interfaces responsivas e modernas com facilidade.
+
+[Site do Bootstrap](https://getbootstrap.com.br)
+
+## 5. Versionamento
+
+Controle de versões é uma ferramenta essencial para quem está começando na programação. Ele ajuda a gerenciar e acompanhar as mudanças no código de um projeto ao longo do tempo te proporcionando um maior controle das alterações realizadas.
+
+### 5.1. GIT
+
+![Git](https://skillicons.dev/icons?i=git)
 
 Git é uma ferramenta que ajuda a gerenciar o código de projetos de software. Usando Git, você pode manter um registro de todas as mudanças feitas no código, o que facilita ver o histórico e corrigir problemas se algo der errado.
+
+[Lista de Comandos](https://comandosgit.github.io)
 
 <details>
 <summary>Saiba mais</summary>
@@ -329,14 +636,69 @@ De longe, o sistema de controle de versão moderno mais usado no mundo hoje é o
 </details>
 <details>
 <summary>Curso gratuito</summary>
-Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&si=F8KF5mqOORWM5aI6">Playlist Git & Github - Curso em vídeo</a>
+Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&si=F8KF5mqOORWM5aI6">Git & Github - Curso em vídeo</a>
 <br><br>
 </details>
 
-Lista de comandos: https://comandosgit.github.io
-
 ## 6. Github
-Rede social para programadores
+
+![Github](https://skillicons.dev/icons?i=github)
+
+
+GitHub é uma plataforma de hospedagem de código-fonte e controle de versão baseada em Git. Ele permite que desenvolvedores colaborem em projetos de software, compartilhem código, e gerenciem versões e alterações. Oferece funcionalidades como repositórios, pull requests, issues, e integração contínua. GitHub também possui uma comunidade ativa e recursos para documentação e gerenciamento de projetos.
+
+[Site do Github](https://github.com)
+
+### Repositórios
+
+Local onde você pode armazenar seus projetos e códigos em qualquer linguagem, além de permitir que outras pessoas visualizem por meio de link (caso não seja privado), você garante também um local para armazená-los de onde estiver.
+
+Você pode pegar uma cópia do seu repositório a qualquer momento fazendo o `clone` dele
+
+Você também pode pegar uma cópia de qualquer projeto público no Github, isso se chama `fork`, basta `clonar` o repositório desejado
+
+### README.md
+
+Existe um repositório especial em que você o cria utilizando seu nome de usuário do Github, isso fará com que todos que visitem seu perfil, acessem diretamente o arquivo chamado `README.md` (extensão Markdown)
+
+Veja meu exemplo: https://github.com/devrenj
+
+Para que isso aconteça, meu repositório então se chama `devrenj` e contém um arquivo `README.md`
+
+### Markdown
+
+![Markdown](https://skillicons.dev/icons?i=markdown&bnsp;theme=light)
+
+É uma linguagem de marcação que facilita a escrita com comandos simples para implementar formatação `HTML` em forma de texto, e.g.
+
+```markdown
+# Título H1
+
+## Título H2
+
+### Título H3
+
+<google.com> - Link direto
+
+![Imagem](https://picsum.photos/150)
+
+Listas
+
+  - Item 1
+  - Item 2
+  - Item 3
+
+  1. Item 1
+  2. Item 2
+  3. Item 3
+
+```
+
+### Github Pages
+
+Criando um repositório especial `usuario.github.io` você consegue ter uma página na internet gratuita, sem se preocupar com provedor nem hospedagem!
+
+[Documentação do Github Pages]([https://](https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-github-pages-site))
 
 <details>
 <summary>Projetos recomendados</summary>
@@ -352,14 +714,54 @@ Rede social para programadores
 
 <details>
 <summary>Curso gratuito</summary>
-Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&si=F8KF5mqOORWM5aI6">Playlist Git & Github - Curso em vídeo</a>
+Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&si=F8KF5mqOORWM5aI6">Git & Github - Curso em vídeo</a>
 </details>
 
 ## 7. CLI
 
+![CLI](https://skillicons.dev/icons?i=bash)
+
 Command Line Interface
 
-Lista de comandos: https://ss64.com/
+É um conhecimento importante pois você irá precisar ao usar o `Git Bash`, `Windows Power Shell`, `Prompt de Comando`, até mesmo para abrir e utilizar algum terminal no VS Code, é recomendável ter conhecimento sobre este assunto.
 
-### LICENSE
+Principais comandos:
+
+```powershell
+cd C:\ - Navegar para o caminho específico
+
+ls ou dir - Listar o diretório atual
+
+mkdir "meus arquivos" - Cria uma nova pasta 
+
+rmdir <dir> - Remove a pasta
+
+del <file> - Remove o arquivo
+
+echo <msg> <file.extension> - Cria um arquivo com o conteudo de msg
+
+type <file.extension> | clip - Copia o conteudo de um arquivo para a area de transferencia
+
+clip < <file.extension> - Copia o conteudo de um arquivo para a area de transferencia
+
+explorer . - Abre o explorador de arquivos na pasta em que está
+
+code . - Abre o VS Code na pasta em que está
+
+```
+
+[Lista de comandos CLI](https://ss64.com/)
+
+## 7. Linkedin
+
+![Linkedin](https://skillicons.dev/icons?i=linkedin)
+
+Rede social profissional
+
+Para um programador, o LinkedIn é uma ferramenta essencial. Ele facilita o networking profissional, permitindo conexões com colegas e especialistas da área. A plataforma é um excelente recurso para encontrar oportunidades de emprego, já que muitas empresas recrutam diretamente por lá. Além disso, um perfil bem estruturado ajuda a construir sua marca pessoal, destacando suas habilidades e conquistas. O LinkedIn Learning oferece cursos para aprimorar suas habilidades e manter-se atualizado. Participar de grupos e seguir líderes do setor também proporciona acesso a discussões e tendências relevantes. Em resumo, o LinkedIn é crucial para expandir sua rede, explorar novas oportunidades e continuar aprendendo na área de programação.
+
+[Site do Linkedin](https://linkedin.com)
+
+[Bettha: Como criar um perfil de sucesso no LinkedIn?](https://blog.bettha.com/perfil-de-sucesso-linkedin/)
+## LICENSE
 Copyright (c) 2024 Roberto Nóbrega Jr. ([@devrenj](https://www.github.com/devrenj)) under MIT License
