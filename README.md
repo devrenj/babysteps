@@ -1,4 +1,4 @@
-# 👼 Comece por aqui ✨
+👼 Comece por aqui ✨
  
  ![Àrea de Trabalho](https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)
  
@@ -6,18 +6,65 @@ Sem pressão • Sem medo • Tenha foco
 
  Te desejo muito sucesso nessa jornada!
 
+Tabela de Conteúdo:
+
+- [🌓 Modo escuro](#-modo-escuro)
+- [💬 Termos usados](#-termos-usados)
+- [⚙ Configurando seu Ambiente de Programação](#-configurando-seu-ambiente-de-programação)
+  - [🔹 VS CODE](#-vs-code)
+    - [🔹 Instalação](#-instalação)
+    - [🔹 Primeiro projeto no VS Code](#-primeiro-projeto-no-vs-code)
+    - [🔹 Mudar idioma do editor para português:](#-mudar-idioma-do-editor-para-português)
+    - [🔹 Extensão: Code Runner](#-extensão-code-runner)
+    - [🔹 Extensão: Live Server](#-extensão-live-server)
+    - [🔹 Atalhos e Dicas](#-atalhos-e-dicas)
+    - [Comandos que ajudam muito:](#comandos-que-ajudam-muito)
+    - [Atalhos que uso com mais frequência:](#atalhos-que-uso-com-mais-frequência)
+    - [Snippets HTML](#snippets-html)
+    - [Snippets Javascript](#snippets-javascript)
+- [👨‍💻 Programação](#-programação)
+  - [Quer se tornar um bom programador? Aqui vão algumas dicas:](#quer-se-tornar-um-bom-programador-aqui-vão-algumas-dicas)
+  - [🔹 Sites para Programadores](#-sites-para-programadores)
+  - [Contendo cursos gratuitos](#contendo-cursos-gratuitos)
+  - [Contendo cursos pagos](#contendo-cursos-pagos)
+  - [Contendo excelentes Artigos e Recursos](#contendo-excelentes-artigos-e-recursos)
+- [0. Lógica de Programação](#0-lógica-de-programação)
+  - [Por onde começar?](#por-onde-começar)
+  - [1. Algoritmos](#1-algoritmos)
+  - [1.1 Pseudocódigo](#11-pseudocódigo)
+  - [1.2. Visualg](#12-visualg)
+  - [1.3 Portugol](#13-portugol)
+- [Inteligência Artificial](#inteligência-artificial)
+    - [1.4 ChatGPT](#14-chatgpt)
+    - [Google Gemini](#google-gemini)
+    - [Microsoft Copilot](#microsoft-copilot)
+    - [Como criar prompts?](#como-criar-prompts)
+      - [Exemplos de prompts](#exemplos-de-prompts)
+- [2. JS - Javascript](#2-js---javascript)
+- [2.1. NODE](#21-node)
+  - [2.2. NPM](#22-npm)
+- [3. HTML](#3-html)
+- [4. CSS](#4-css)
+  - [4.1 Bootstrap](#41-bootstrap)
+- [5. Versionamento](#5-versionamento)
+  - [5.1. GIT](#51-git)
+- [6. Github](#6-github)
+  - [6.1 Repositórios](#61-repositórios)
+  - [6.2 Comandos para repositórios versionados com Git](#62-comandos-para-repositórios-versionados-com-git)
+  - [README.md](#readmemd)
+  - [Markdown](#markdown)
+  - [Github Pages](#github-pages)
+- [7. CLI](#7-cli)
+- [8. Linkedin](#8-linkedin)
+- [9. Figma](#9-figma)
+- [LICENSE](#license)
+
 ## 🌓 Modo escuro
 
 Utilize a extensão Dark Reader para ver qualquer página em modo ecsuro e poupe alguns anos de vida útil das suas vistas
 
 [Chrome](https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
  – [Edge](https://microsoftedge.microsoft.com/addons/detail/ifoakfbpdcdoeenechcleahebpibofpc?refid=bingshortanswersdownload)
-
-## ⚡ TAGs
-
-Se já sabe o que busca, vá direto ao ponto!
-
-[Estou Perdido](#0-lógica-de-programação) – [Por onde começar?](#por-onde-começar) – [VSCode](#-vs-code) – [Atalhos e Dicas VSCode](#-atalhos-e-dicas) – [Sites para Programadores](#-sites-para-programadores) – [Code Runner](#-extensão-code-runner) – [Live Server](#-extensão-live-server) – [Programação](#-programação) – [Lógica de Programação](#0-lógica-de-programação) – [Pseudocódigo](#11-pseudocódigo) – [Visualg](#12-visualg) – [Portugol](#13-portugol) – [Algoritmos](#1-algoritmos) – [JavaScript](#2-js---javascript) – [NODE](#21-node) – [NPM](#22-npm) – [HTML](#3-html) – [CSS](#4-css) – [GIT](#51-git) – [Github](#6-github) – [CLI](#7-cli) – [Terminal de Comando](#goto-terminal) – [Linkedin](#7-linkedin)
 
 ## 💬 Termos usados
 
@@ -46,7 +93,6 @@ O JavaScript é como a fiação elétrica e encanamentos da casa. Ele adiciona f
 Anteriormente conhecido como Zen Coding, foi iniciado em 2008 com o objetivo de ajudar os desenvolvedores a escrever código de forma mais rápida e eficiente. Emmet é uma ferramenta poderosa para expandir abreviações curtas em blocos de código completos, facilitando a criação de HTML, CSS e outros tipos de código.<br><br>
 </details>
 
-
 <details>
 <summary><a name="goto-trilha">Trilha</a></summary>
 É o termo usado para definir um caminho completo de desenvolvimento, do básico ao avançado, por exemplo:
@@ -69,10 +115,8 @@ CTRL + V - Colar texto
 <br>
 </details>
 
-
 ## ⚙ Configurando seu Ambiente de Programação 
 Vamos aprender o necessário para começar
-
 
 ### 🔹 VS CODE 
 
@@ -80,10 +124,10 @@ Vamos aprender o necessário para começar
 
 Editor de códigos popular e leve, nele você pode escrever códigos e aplicar extensões para melhorar sua produtividade conforme a sua necessidade.
 
-### 🔹 Instalação
+#### 🔹 Instalação
   - Faça o download em: https://code.visualstudio.com/Download
 
-### 🔹 Primeiro projeto no VS Code
+#### 🔹 Primeiro projeto no VS Code
 - Defina uma pasta para guardar os arquivos do projeto
 - Temos alguns caminhos para abrir um projeto:
   1. `File` > `Open Folder` > Navegue até a pasta escolhida
@@ -98,7 +142,7 @@ Pronto! A partir de agora, todo seu projeto ficará dentro dessa pasta, para mud
   1. Pela [hotkey](#goto-hotkey) `CTRL + '`
   1. Na aba `+` tem uma seta que te permite abrir diferentes [terminais](#7-cli) (powershell, bash, etc...)
 
-### 🔹 Mudar idioma do editor para português:
+#### 🔹 Mudar idioma do editor para português:
 - Aqui estão dois modos:
   1. Abra a paleta de comandos pela [hotkey](#goto-hotkey) `CTRL + Shift + P` e digite `display`, pressione `Enter` e digite `Brasil`, pressione enter novamente para confirmar
   2. Pela aba `View` > `Command Pallete...` > Digite `display` > Pressione `Enter` > Digite `Brasil` > Pressione `Enter` novamente para confirmar
@@ -107,7 +151,7 @@ Pronto! A partir de agora, todo seu projeto ficará dentro dessa pasta, para mud
 
 > <div class="markdown-alert markdown-alert-tip" dir="auto"><p class="markdown-alert-title" dir="auto"><svg class="octicon octicon-light-bulb mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 0 1-1.484.211c-.04-.282-.163-.547-.37-.847a8.456 8.456 0 0 0-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.751.751 0 0 1-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75ZM5.75 12h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1 0-1.5ZM6 15.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 0 1.5h-2.5a.75.75 0 0 1-.75-.75Z"></path></svg>Dica</p><p dir="auto">Desbloqueie seu pontencial no VS Code: <a href="https://github.com/bylearn/VS-Code-Produtividade-Infinita">https://github.com/bylearn/VS-Code-Produtividade-Infinita</a></p></div>
 
-### 🔹 Extensão: Code Runner
+#### 🔹 Extensão: Code Runner
 Simplifica a execução de códigos no [VS Code](#-vs-code).
 
 - Instalação:
@@ -124,7 +168,7 @@ Simplifica a execução de códigos no [VS Code](#-vs-code).
   - Crie um arquivo
   - Escreva seus comandos e execute através do botão Play `▶`
 
-### 🔹 Extensão: Live Server
+#### 🔹 Extensão: Live Server
 Cria um servidor local que atualiza o conteúdo conforme você altera o arquivo no editor, em tempo real
 
 - Instalação:
@@ -146,12 +190,12 @@ Cria um servidor local que atualiza o conteúdo conforme você altera o arquivo 
 
 > <div class="markdown-alert markdown-alert-tip" dir="auto"><p class="markdown-alert-title" dir="auto"><svg class="octicon octicon-light-bulb mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 0 1-1.484.211c-.04-.282-.163-.547-.37-.847a8.456 8.456 0 0 0-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.751.751 0 0 1-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75ZM5.75 12h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1 0-1.5ZM6 15.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 0 1.5h-2.5a.75.75 0 0 1-.75-.75Z"></path></svg>Dica</p><p dir="auto">Se desejar usar outra página como principal no servidor, clique no arquivo com o botão direito e selecione `Open with Live Server`</p></div>
 
-### 🔹 Atalhos e Dicas
+#### 🔹 Atalhos e Dicas
 
 - Para salvar automaticamente, ative: `File` > `Auto Save`
 - Quando você usar um atalho e tiverem palavras com fundo branco, apertando a tecla `TAB` você consegue navegar entre elas
 
-### Comandos que ajudam muito:
+#### Comandos que ajudam muito:
 
 `CTRL + ,` - Abre as configurações do editor
 
@@ -162,7 +206,7 @@ Eu costumo acessar o `settings.json`, lá ficam as configurações do usuário
 
 `CTRL + K` `CTRL + S` - Abre a lista de atalhos do teclado
 
-### Atalhos que uso com mais frequência:
+#### Atalhos que uso com mais frequência:
 
 `CTRL + ESPAÇO` - Sugestões e Intellisense
 
@@ -186,13 +230,13 @@ Eu costumo acessar o `settings.json`, lá ficam as configurações do usuário
 
 `DUPLO CLIQUE` (em alguma palavra) - Seleciona toda a palavra rapidamente, útil para variáveis
 
-### Snippets HTML
+#### Snippets HTML
 
 `!` - Cria uma estrutura HTML
 
 `lorem` - Cria um texto aleatório, ideal para quando você está com pressa ou não quer pensar em um texto
 
-### Snippets Javascript
+#### Snippets Javascript
 
 `log` - Console.log();
 
@@ -343,7 +387,7 @@ Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqv
 </details>
 <br>
 
-## 1. Algoritmos
+### 1. Algoritmos
 
 ![Algoritmos](https://skillicons.dev/icons?i=kafka&bnsp;theme=light)
 
@@ -359,7 +403,7 @@ Essas etapas formam uma **rotina** matinal!
 
 E toda rotina pode ser automatizada 💡
 
-## 1.1 Pseudocódigo
+### 1.1 Pseudocódigo
 
 ![Pseudocódigo](https://skillicons.dev/icons?i=actix)
 
@@ -402,7 +446,7 @@ Algoritmo: Rotina Matinal
 
 Neste exemplo, descrevemos de forma detalhada os passos (lógica) necessários para a execução da nossa tarefa (algoritmo). Isso é semelhante ao que fazemos ao desenvolver programas, **criando soluções** para problemas.
 
-## 1.2. Visualg
+### 1.2. Visualg
 
 Um ambiente de programação educativo que pode ser considerado uma excelente introdução ao mundo da programação, tendo como base o estudo aplicado da lógica de programaçao através do português estruturado.
 
@@ -424,7 +468,7 @@ Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqv
 </details>
 <br>
 
-## 1.3 Portugol
+### 1.3 Portugol
 
 Linguagem Portugol
 
@@ -434,7 +478,7 @@ O Portugol é uma representação que se assemelha bastante com a linguagem C, p
 
 [Portugol Studio](https://portugol.dev)
 
-## 1.4 Inteligência Artificial
+## Inteligência Artificial
 
 ![IA](https://skillicons.dev/icons?i=atom&bnsp;theme=light)
 
@@ -442,29 +486,29 @@ Na hora de aprender, a IA é uma grande aliada para você aprofundar nos estudos
 
 Quando não temos um professor ou especialista disponível, uma conversa generativa pode ser extremamente útil. Ela pode ajudar a esclarecer detalhes de um código, explicar conceitos que não entendemos bem e até sugerir novos tópicos de estudo.
 
-### ChatGPT
+#### 1.4 ChatGPT
 
 [Site do ChatGPT](https://chat.openai.com)
 
 O ChatGPT é um modelo de linguagem desenvolvido pela OpenAI que pode compreender e gerar texto em linguagem natural. Ele é utilizado para uma variedade de tarefas, incluindo responder perguntas, gerar textos criativos e auxiliar na programação.
 
-### Google Gemini
+#### Google Gemini
 
 [Site do Google Gemini](https://gemini.google)
 
 O Google Gemini é uma plataforma de IA para geração de texto e análise de linguagem, desenvolvida pelo Google.
 
-### Microsoft Copilot
+#### Microsoft Copilot
 
 [Site do Microsoft Copilot](https://www.microsoft.com/en-us/microsoft-365/copilot)
 
 O Microsoft Copilot é uma ferramenta integrada ao Microsoft 365 que auxilia na criação e edição de documentos e e-mails, usando IA para melhorar a produtividade.
 
-### Como criar prompts?
+#### Como criar prompts?
 
 É possível direcionar a inteligência artificial para obter respostas mais precisas por meio de `prompts`. Eles devem ser claros e específicos, incluindo detalhes e contexto quando necessário. Ajuste os prompts conforme a resposta recebida para obter informações mais relevantes.
 
-#### Exemplos de prompts
+##### Exemplos de prompts
 
 **Para obter uma explicação simples sobre um conceito:**
    - "Explique o que é 'machine learning' em termos simples."
@@ -529,7 +573,7 @@ Ou Node.js, é um ambiente de execução que utiliza o mecanismo JavaScript V8, 
   - Abra um [terminal de comando](#goto-terminal)
   - Digite `node -v`, se retornar a versão instalada, tudo certo, o NODE já está habilitado
 
-## 2.2. NPM
+### 2.2. NPM
 
 ![NPM](https://skillicons.dev/icons?i=npm)
 
@@ -652,18 +696,25 @@ Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9o
 
 ![Github](https://skillicons.dev/icons?i=github)
 
+`Rede social para programadores`
 
-GitHub é uma plataforma de hospedagem de código-fonte e controle de versão baseada em Git. Ele permite que desenvolvedores colaborem em projetos de software, compartilhem código, e gerenciem versões e alterações. Oferece funcionalidades como repositórios, pull requests, issues, e integração contínua. GitHub também possui uma comunidade ativa e recursos para documentação e gerenciamento de projetos.
+GitHub é uma plataforma de hospedagem de código-fonte e controle de versão baseada em [Git](#51-git). Ele permite que desenvolvedores colaborem em projetos de software, compartilhem código, e gerenciem versões e alterações. Oferece funcionalidades como repositórios, pull requests, issues, e integração contínua. GitHub também possui uma comunidade ativa e recursos para documentação e gerenciamento de projetos.
 
 [Site do Github](https://github.com)
 
-### Repositórios
+### 6.1 Repositórios
 
 Local onde você pode armazenar seus projetos e códigos em qualquer linguagem, além de permitir que outras pessoas visualizem por meio de link (caso não seja privado), você garante também um local para armazená-los de onde estiver.
 
-Você pode pegar uma cópia do seu repositório a qualquer momento fazendo o `clone` dele
+### 6.2 Comandos para repositórios versionados com Git
 
-Você também pode pegar uma cópia de qualquer projeto público no Github, isso se chama `fork`, basta `clonar` o repositório desejado
+`Clone`: Você pode fazer uma cópia de algum repositório com o comando `git clone`.
+
+`Fork`: Você cria um repositório-cópia de algum projeto no Github e pode trabalhar em suas próprias alterações sem afetar o repositório original. Para fazer um `fork` você precisa acessar o `Github` e clicar no botão `fork`.
+
+`Pull Request`: Quando vocé cria uma alteração (`commit`) em um repositório criado por meio de `fork`, ele cria um `Pull Request` que é enviado para o repositório original para que ele seja analisado, podendo ser aceito ou rejeitado pelo dono do projeto.
+
+`Branch`: Uma ramificação do fluxo de trabalho do repositório, onde você pode trabalhar versões em separado do seu projeto, a `branch` principal geralmente se chama `main` ou `master`.
 
 ### README.md
 
@@ -736,40 +787,73 @@ Command Line Interface
 Principais comandos:
 
 ```powershell
-cd C:\ - Navegar para o caminho específico
+::Navegar para o caminho específico
+cd C:\
 
-ls ou dir - Listar o diretório atual
+::Listar o diretório atual
+ls ou dir 
 
-mkdir "meus arquivos" - Cria uma nova pasta 
+::Cria uma nova pasta 
+mkdir "meus arquivos" 
 
-rmdir <dir> - Remove a pasta
+::Remove a pasta
+rmdir <dir> 
 
-del <file> - Remove o arquivo
+::Remove o arquivo
+del <file> 
 
-echo <msg> <file.extension> - Cria um arquivo com o conteudo de msg
+::Cria um arquivo com o conteúdo de msg
+echo <msg> <file.extension> 
 
-type <file.extension> | clip - Copia o conteudo de um arquivo para a area de transferencia
+::Copia o conteúdo de um arquivo para a area de transferência
+type <file.extension> | clip 
 
-clip < <file.extension> - Copia o conteudo de um arquivo para a area de transferencia
+::Copia o conteúdo de um arquivo para a area de transferência
+clip < <file.extension> 
 
-explorer . - Abre o explorador de arquivos na pasta em que está
+::Abre o explorador de arquivos no caminho atual
+::(Funciona também na barra de endereços de uma pasta)
+explorer . 
 
-code . - Abre o VS Code na pasta em que está
+::Abre o VS Code no caminho atual
+::(Funciona também na barra de endereços de uma pasta)
+code . 
 
 ```
 
+É possível também criar soluções mais complexas, eu mesmo estudei um pouco sobre isso e criei essa utilidade:
+
+
 [Lista de comandos CLI](https://ss64.com/)
 
-## 7. Linkedin
+## 8. Linkedin
 
 ![Linkedin](https://skillicons.dev/icons?i=linkedin)
 
-Rede social profissional
+`Rede social para profissionais`
 
 Para um programador, o LinkedIn é uma ferramenta essencial. Ele facilita o networking profissional, permitindo conexões com colegas e especialistas da área. A plataforma é um excelente recurso para encontrar oportunidades de emprego, já que muitas empresas recrutam diretamente por lá. Além disso, um perfil bem estruturado ajuda a construir sua marca pessoal, destacando suas habilidades e conquistas. O LinkedIn Learning oferece cursos para aprimorar suas habilidades e manter-se atualizado. Participar de grupos e seguir líderes do setor também proporciona acesso a discussões e tendências relevantes. Em resumo, o LinkedIn é crucial para expandir sua rede, explorar novas oportunidades e continuar aprendendo na área de programação.
 
 [Site do Linkedin](https://linkedin.com)
 
 [Bettha: Como criar um perfil de sucesso no LinkedIn?](https://blog.bettha.com/perfil-de-sucesso-linkedin/)
+
+## 9. Figma
+
+![Figma](https://skillicons.dev/icons?i=figma)
+
+O Figma é um editor gráfico de vetor e prototipagem de projetos de design de interface gráfica de usuário e desenvolvimento de UI/UX baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows.
+
+_Fonte: Wikipedia_
+
+`Wireframe`: É possível criar protótipos e até mesmo com funcionalidades para criar apresentações rápidas. É um excelente meio para dar um pontapé novas ideias de forma simples, rápida e visual, os chamados wireframes.
+
+`UI/UX`: Permite que designers criem layouts visuais (UI) enquanto consideram a experiência do usuário (UX), ajustando fluxos e interações. Como é baseado na nuvem, é ótimo para colaboração em tempo real, ajudando equipes a iterar rapidamente e alinhar ideias de forma eficiente.
+
+`Colaboração`: Um dos seus pontos principais é permitir que múltiplos usuários trabalhem simultaneamente em um projeto, facilitando a comunicação e o feedback em tempo real. Isso torna o Figma uma ferramenta poderosa para equipes de design, promovendo uma integração fluida entre designers, desenvolvedores e outras partes interessadas. Os comentários e edições em tempo real ajudam a garantir que todos os membros da equipe estejam sempre na mesma página.
+
+
+[Site do Figma](https://www.figma.com)
+
 ## LICENSE
-Copyright (c) 2024 Roberto Nóbrega Jr. ([@devrenj](https://www.github.com/devrenj)) under MIT License
+Copyright &copy; 2024 Roberto Nóbrega Jr. ([@devrenj](https://www.github.com/devrenj)) under MIT License
