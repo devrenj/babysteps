@@ -125,7 +125,7 @@ Vamos aprender o necessário para começar
 Editor de códigos popular e leve, nele você pode escrever códigos e aplicar extensões para melhorar sua produtividade conforme a sua necessidade.
 
 #### 🔹 Instalação
-  - Faça o download em: https://code.visualstudio.com/Download
+  - Faça o download em: <https://code.visualstudio.com/Download>
 
 #### 🔹 Primeiro projeto no VS Code
 - Defina uma pasta para guardar os arquivos do projeto
@@ -566,7 +566,7 @@ Link: <a href="https://youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl
 Ou Node.js, é um ambiente de execução que utiliza o mecanismo JavaScript V8, o mesmo núcleo do Google Chrome, mas operando fora do navegador, no lado do servidor. Isso significa que tudo o que você pode fazer no Node.js, também pode ser feito no console do [DevTools](https://developer.chrome.com/docs/devtools?hl=pt-br) para ser executado pelo navegador Web, no lado do cliente.
 
 - Instalação:
-  - Faça o download em: https://nodejs.org/pt (versão [LTS](#goto-lts)).
+  - Faça o download em: <https://nodejs.org/pt> (versão [LTS](#goto-lts)).
   - Ao instalar o NODE, o NPM é habilitado automaticamente
 
 - Verificando a versão
@@ -610,7 +610,7 @@ Com a evolução da internet, a solução foi ganhando atenção mundial. As pri
 <br><br>
 Formalmente, as especificações foram definidas somente na década de 1990. Em seguida, começou a evolução do HTML, sendo criado um grupo de trabalho para o HTML que, em 1995, publicou a versão HTML 2.0. No final de 1997 foi lançada a versão HTML 3.5 e, com ela, o grupo de trabalho da W3C começou a focar no desenvolvimento do XHTML. Continuaram com o lançamento das versões HTML 4.01 em 1999, do XHTML em 2000, e finalmente chegamos em 2014, momento em que é lançado o HTML5, que é utilizado até hoje, assim como suas atualizações.
 <br><br>
-(Fonte: https://www.alura.com.br/artigos/html)
+(Fonte: <https://www.alura.com.br/artigos/html>)
 </details>
 <br>
 
@@ -720,13 +720,15 @@ Local onde você pode armazenar seus projetos e códigos em qualquer linguagem, 
 
 Existe um repositório especial em que você o cria utilizando seu nome de usuário do Github, isso fará com que todos que visitem seu perfil, acessem diretamente o arquivo chamado `README.md` (extensão Markdown)
 
-Veja meu exemplo: https://github.com/devrenj
+Veja meu exemplo: <https://github.com/devrenj>
 
 Para que isso aconteça, meu repositório então se chama `devrenj` e contém um arquivo `README.md`
 
 ### Markdown
 
 ![Markdown](https://skillicons.dev/icons?i=markdown&bnsp;theme=light)
+
+[Documentação no Github](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 É uma linguagem de marcação que facilita a escrita com comandos simples para implementar formatação `HTML` em forma de texto, e.g.
 
@@ -736,6 +738,13 @@ Para que isso aconteça, meu repositório então se chama `devrenj` e contém um
 ## Título H2
 
 ### Título H3
+
+_Texto Itálico_
+
+**Texto Negrito**
+
+*Texto Italico*
+
 
 <google.com> - Link direto
 
