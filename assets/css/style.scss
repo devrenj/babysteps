@@ -1,30 +1,164 @@
 ---
 ---
 
+/* 
+ * Jekyll Hacker Theme Core CSS (adaptado para SCSS)
+ * Originally created by Ben Balter
+ */
+
+:root {
+  --bg-color: #0d0d0d;
+  --text-color: #eaeaea;
+  --accent-color: #b5e853;
+  --secondary-color: #606060;
+  --border-color: #151515;
+  --code-bg: #1e1e1e;
+}
+
+$bg-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAG0lEQVQIW2M6c+bMfwYgYARjMIGM2EwAsggAmToC697b0fEAAAAASUVORK5CYII=');
+
 body {
-    background-color: #121212;
-    color: #e0e0e0;
-    font-family: 'Courier New', Courier, monospace;
-    padding: 40px;
-    max-width: 800px;
-    margin: 0 auto;
+  background: var(--bg-color) $bg-image repeat;
+  font-family: Monaco, 'Bitstream Vera Sans Mono', 'Lucida Console', Terminal, monospace;
+  color: var(--text-color);
+  line-height: 1.5;
+  padding: 20px;
+  margin: 0;
 }
 
-a {
-    color: #00ff00;
+/* Layout Wrappers */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
 }
 
-h1, h2, h3 {
-    color: #00ff00;
+header {
+  border-bottom: 1px dashed var(--accent-color);
+  padding-bottom: 20px;
+  margin-bottom: 30px;
 }
 
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--accent-color);
+  font-weight: normal;
+  margin-top: 24px;
+  margin-bottom: 16px;
+}
+
+h1 { font-size: 2.25rem; border-bottom: 1px solid var(--border-color); padding-bottom: 0.3em; }
+h2 { font-size: 1.75rem; border-bottom: 1px solid var(--border-color); padding-bottom: 0.3em; }
+h3 { font-size: 1.35rem; }
+
+p, ul, ol {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+/* Markdown lists: bullets */
 ul {
-    list-style-type: disc !important;
-    padding-left: 30px !important;
-    margin-bottom: 15px;
+  list-style-type: disc;
+  padding-left: 2.2em;
+}
+
+ol {
+  list-style-type: decimal;
+  padding-left: 2.2em;
 }
 
 li {
-    margin-top: 5px;
-    color: #4dffff;
+  color: var(--text-color);
 }
+
+a {
+  color: var(--accent-color);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Code Blocks & Preformatted Text */
+code, pre {
+  font-family: Monaco, 'Bitstream Vera Sans Mono', 'Lucida Console', Terminal, monospace;
+  background-color: var(--code-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 3px;
+}
+
+code {
+  padding: 2px 6px;
+  font-size: 0.85em;
+  color: var(--accent-color);
+}
+
+pre {
+  padding: 16px;
+  overflow: auto;
+  font-size: 0.85em;
+  line-height: 1.45;
+}
+
+pre code {
+  background-color: transparent;
+  border: none;
+  padding: 0;
+  color: inherit;
+}
+
+/* Blockquotes */
+blockquote {
+  padding: 0 1em;
+  color: var(--secondary-color);
+  border-left: 0.25em solid var(--secondary-color);
+  margin: 0 0 16px 0;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 16px;
+}
+
+table th, table td {
+  padding: 6px 13px;
+  border: 1px solid var(--border-color);
+}
+
+table tr {
+  background-color: var(--bg-color);
+}
+
+table tr:nth-child(2n) {
+  background-color: var(--code-bg);
+}
+
+/* Utility classes for the signature Header Section */
+.project-tagline {
+  font-size: 1.2rem;
+  color: var(--secondary-color);
+  margin-bottom: 20px;
+}
+
+.buttons {
+  margin-bottom: 20px;
+}
+
+.button {
+  display: inline-block;
+  padding: 8px 15px;
+  border: 1px solid var(--accent-color);
+  color: var(--accent-color);
+  border-radius: 4px;
+  margin-right: 10px;
+  font-size: 0.9em;
+}
+
+.button:hover {
+  background: rgba(181, 232, 83, 0.1);
+  text-decoration: none;
+}
+
+
