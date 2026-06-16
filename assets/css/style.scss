@@ -18,12 +18,23 @@
 $bg-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAG0lEQVQIW2M6c+bMfwYgYARjMIGM2EwAsggAmToC697b0fEAAAAASUVORK5CYII=');
 
 body {
-  background: var(--bg-color) $bg-image repeat;
+  background-color: var(--bg-color);
   font-family: Monaco, 'Bitstream Vera Sans Mono', 'Lucida Console', Terminal, monospace;
   color: var(--text-color);
   line-height: 1.5;
   padding: 20px;
   margin: 0;
+}
+
+/* Textura (evitar ficar na frente e atrapalhar leitura) */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background: $bg-image repeat;
+  pointer-events: none;
+  opacity: 0.08;
+  z-index: -1;
 }
 
 /* Layout Wrappers */
