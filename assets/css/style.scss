@@ -24,20 +24,19 @@ body {
   line-height: 1.5;
   padding: 20px;
   margin: 0;
-}
-
-/* Wrapper para manter conteúdo (incluindo img inicial) dentro da largura de “blog” */
-body > * {
   max-width: 760px;
   margin-left: auto;
   margin-right: auto;
 }
 
+/* Reduzir imagens para caberem no container do “blog” (sem remover fundo/textura) */
 img {
   max-width: 100%;
+  width: 100%;
   height: auto;
   display: block;
 }
+
 
 /* Textura (evitar ficar na frente e atrapalhar leitura) */
 body::before {
