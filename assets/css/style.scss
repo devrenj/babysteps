@@ -56,14 +56,17 @@ p, ul, ol {
 }
 
 /* Markdown lists: bullets */
+ul,
+ol {
+  padding-left: 2.2em;
+}
+
 ul {
   list-style-type: disc;
-  padding-left: 2.2em;
 }
 
 ol {
   list-style-type: decimal;
-  padding-left: 2.2em;
 }
 
 li {
