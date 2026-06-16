@@ -24,10 +24,19 @@ body {
   line-height: 1.5;
   padding: 20px;
   margin: 0;
-  /* Garante “cara de blog” mesmo quando não há .container no template */
+}
+
+/* Wrapper para manter conteúdo (incluindo img inicial) dentro da largura de “blog” */
+body > * {
   max-width: 760px;
   margin-left: auto;
   margin-right: auto;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 
 /* Textura (evitar ficar na frente e atrapalhar leitura) */
